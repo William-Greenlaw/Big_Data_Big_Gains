@@ -391,15 +391,15 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2015-01-06,Rear Delt Machine Fly,Shoulders,80.0,12.0,,,,,960.0,112.0,,Back,1,
 2015-01-06,Rear Delt Machine Fly,Shoulders,80.0,12.0,,,,,960.0,112.0,,Back,1,
 2015-01-06,Rear Delt Machine Fly,Shoulders,80.0,12.0,,,,,960.0,112.0,,Back,1,
-2015-01-09,Rowing Machine,Cardio,,,1226.0,m,306.0,,,,4.006535947712418,Back,0,
-2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-01-09,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Back,1,
-2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Back,1,
-2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Back,1,
-2015-01-09,Deadlift,Back,130.0,10.0,,,,Performing this lift with a barbell still hurts my back,1300.0,173.33333333333334,,Back,1,
+2015-01-09,Rowing Machine,Cardio,,,1226.0,m,306.0,,,,4.006535947712418,Legs,0,
+2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-01-09,Dumbbell Row,Back,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-01-09,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Legs,1,
+2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Legs,1,
+2015-01-09,Dumbbell Lunges,Legs,55.0,10.0,,,,,550.0,73.33333333333333,,Legs,1,
+2015-01-09,Deadlift,Back,130.0,10.0,,,,Performing this lift with a barbell still hurts my back,1300.0,173.33333333333334,,Legs,1,
 2015-01-12,Rowing Machine,Cardio,,,1325.0,m,306.0,,,,4.330065359477124,Chest,0,
 2015-01-12,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
 2015-01-12,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,Had to stop workout after chest began hurting quite a bit,500.0,66.66666666666667,,Chest,1,
@@ -499,18 +499,18 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2015-03-28,Dumbbell Hammer Curl,Back,22.5,4.0,,,,,90.0,25.5,,Back,1,
 2015-03-28,Dumbbell Hammer Curl,Back,22.5,6.0,,,,,135.0,27.0,,Back,1,
 2015-03-28,Dumbbell Hammer Curl,Back,20.0,6.0,,,,,120.0,24.0,,Back,1,
-2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Chest,1,
-2015-06-20,Dumbbell Curl,Back,35.0,10.0,,,,,350.0,46.666666666666664,,Chest,1,
-2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Chest,1,
-2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Chest,1,
-2015-06-20,Dumbbell Lunges,Legs,40.0,10.0,,,,,400.0,53.333333333333336,,Chest,1,
-2015-06-20,Dumbbell Lunges,Legs,45.0,10.0,,,,,450.0,60.0,,Chest,1,
-2015-06-20,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
-2015-06-20,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
-2015-06-20,Rope Push Down,Chest,70.0,10.0,,,,,700.0,93.33333333333333,,Chest,1,
-2015-06-20,Rope Push Down,Chest,90.0,10.0,,,,,900.0,120.0,,Chest,1,
-2015-06-20,Rope Push Down,Chest,80.0,10.0,,,,,800.0,106.66666666666667,,Chest,1,
-2015-06-20,Rope Push Down,Chest,80.0,10.0,,,,,800.0,106.66666666666667,,Chest,1,
+2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Legs,1,
+2015-06-20,Dumbbell Curl,Back,35.0,10.0,,,,,350.0,46.666666666666664,,Legs,1,
+2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Legs,1,
+2015-06-20,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Legs,1,
+2015-06-20,Dumbbell Lunges,Legs,40.0,10.0,,,,,400.0,53.333333333333336,,Legs,1,
+2015-06-20,Dumbbell Lunges,Legs,45.0,10.0,,,,,450.0,60.0,,Legs,1,
+2015-06-20,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-06-20,Dumbbell Lunges,Legs,50.0,10.0,,,,,500.0,66.66666666666667,,Legs,1,
+2015-06-20,Rope Push Down,Chest,70.0,10.0,,,,,700.0,93.33333333333333,,Legs,1,
+2015-06-20,Rope Push Down,Chest,90.0,10.0,,,,,900.0,120.0,,Legs,1,
+2015-06-20,Rope Push Down,Chest,80.0,10.0,,,,,800.0,106.66666666666667,,Legs,1,
+2015-06-20,Rope Push Down,Chest,80.0,10.0,,,,,800.0,106.66666666666667,,Legs,1,
 2015-06-21,Dumbbell Curl,Back,30.0,10.0,,,,,300.0,40.0,,Shoulders,1,
 2015-06-21,Dumbbell Curl,Back,35.0,10.0,,,,,350.0,46.666666666666664,,Shoulders,1,
 2015-06-21,Dumbbell Curl,Back,35.0,10.0,,,,,350.0,46.666666666666664,,Shoulders,1,
@@ -612,13 +612,13 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2015-10-17,Lat Pulldown,Back,120.0,10.0,,,,,1200.0,160.0,,Chest,1,
 2015-10-17,Lat Pulldown,Back,130.0,10.0,,,,,1300.0,173.33333333333334,,Chest,1,
 2015-10-17,Lat Pulldown,Back,130.0,10.0,,,,,1300.0,173.33333333333334,,Chest,1,
-2015-11-01,Rowing Machine,Cardio,,,1000.0,m,300.0,,,,3.3333333333333335,Back,0,
-2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Back,1,
-2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Back,1,
-2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Back,1,
-2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
-2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Back,1,
+2015-11-01,Rowing Machine,Cardio,,,1000.0,m,300.0,,,,3.3333333333333335,Chest,0,
+2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Chest,1,
+2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Chest,1,
+2015-11-01,Dumbbell Row,Back,45.0,10.0,,,,,450.0,60.0,,Chest,1,
+2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
+2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
+2015-11-01,Flat Dumbbell Bench Press,Chest,50.0,10.0,,,,,500.0,66.66666666666667,,Chest,1,
 2015-12-22,Rowing Machine,Cardio,,,6019.0,m,1829.0,,,,3.2908693275013667,Chest,0,
 2015-12-22,Flat Barbell Bench Press,Chest,145.0,5.0,,,,,725.0,169.16666666666666,,Chest,1,
 2015-12-22,Flat Barbell Bench Press,Chest,155.0,5.0,,,,,775.0,180.83333333333334,,Chest,1,
@@ -653,28 +653,28 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2015-12-23,Barbell Curl,Back,50.0,4.0,,,,"Couldn't finish the previous set, so I had to rest and then finish it",200.0,56.666666666666664,,Back,1,
 2015-12-24,Rowing Machine,Cardio,,,3177.0,m,906.0,,,,3.506622516556291,Cardio,0,
 2015-12-24,Stair Machine,Cardio,,,442.0,m,900.0,,,,0.4911111111111111,Cardio,0,
-2015-12-26,Rowing Machine,Cardio,,,3201.0,m,907.0,,,,3.529217199558986,Chest,0,
-2015-12-26,Stair Machine,Cardio,,,263.0,m,900.0,,,,0.2922222222222222,Chest,0,
-2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Chest,1,
-2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Chest,1,
-2015-12-26,Overhead Press,Shoulders,85.0,9.0,,,,,765.0,110.5,,Chest,1,
-2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Chest,1,
-2015-12-26,Close Grip Barbell Bench Press,Chest,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Close Grip Barbell Bench Press,Chest,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Close Grip Barbell Bench Press,Chest,85.0,12.0,,,,,1020.0,119.0,,Chest,1,
-2015-12-26,Close Grip Barbell Bench Press,Chest,85.0,12.0,,,,,1020.0,119.0,,Chest,1,
-2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Chest,1,
-2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,12.0,,,,,600.0,70.0,,Chest,1,
-2015-12-26,Hammer Strength Shoulder Press,Shoulders,55.0,12.0,,,,,660.0,77.0,,Chest,1,
-2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,11.0,,,,,550.0,68.33333333333333,,Chest,1,
-2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,12.0,,,,,600.0,70.0,,Chest,1,
-2015-12-26,Cable Overhead Triceps Extension,Chest,27.0,12.0,,,,,324.0,37.8,,Chest,1,
-2015-12-26,Cable Overhead Triceps Extension,Chest,23.0,12.0,,,,,276.0,32.2,,Chest,1,
-2015-12-26,Cable Overhead Triceps Extension,Chest,20.0,12.0,,,,,240.0,28.0,,Chest,1,
-2015-12-26,Cable Overhead Triceps Extension,Chest,20.0,12.0,,,,,240.0,28.0,,Chest,1,
+2015-12-26,Rowing Machine,Cardio,,,3201.0,m,907.0,,,,3.529217199558986,Shoulders,0,
+2015-12-26,Stair Machine,Cardio,,,263.0,m,900.0,,,,0.2922222222222222,Shoulders,0,
+2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Shoulders,1,
+2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Shoulders,1,
+2015-12-26,Overhead Press,Shoulders,85.0,9.0,,,,,765.0,110.5,,Shoulders,1,
+2015-12-26,Overhead Press,Shoulders,85.0,8.0,,,,,680.0,107.66666666666667,,Shoulders,1,
+2015-12-26,Close Grip Barbell Bench Press,Chest,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Close Grip Barbell Bench Press,Chest,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Close Grip Barbell Bench Press,Chest,85.0,12.0,,,,,1020.0,119.0,,Shoulders,1,
+2015-12-26,Close Grip Barbell Bench Press,Chest,85.0,12.0,,,,,1020.0,119.0,,Shoulders,1,
+2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Barbell Shrug,Back,95.0,12.0,,,,,1140.0,133.0,,Shoulders,1,
+2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,12.0,,,,,600.0,70.0,,Shoulders,1,
+2015-12-26,Hammer Strength Shoulder Press,Shoulders,55.0,12.0,,,,,660.0,77.0,,Shoulders,1,
+2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,11.0,,,,,550.0,68.33333333333333,,Shoulders,1,
+2015-12-26,Hammer Strength Shoulder Press,Shoulders,50.0,12.0,,,,,600.0,70.0,,Shoulders,1,
+2015-12-26,Cable Overhead Triceps Extension,Chest,27.0,12.0,,,,,324.0,37.8,,Shoulders,1,
+2015-12-26,Cable Overhead Triceps Extension,Chest,23.0,12.0,,,,,276.0,32.2,,Shoulders,1,
+2015-12-26,Cable Overhead Triceps Extension,Chest,20.0,12.0,,,,,240.0,28.0,,Shoulders,1,
+2015-12-26,Cable Overhead Triceps Extension,Chest,20.0,12.0,,,,,240.0,28.0,,Shoulders,1,
 2015-12-28,Rowing Machine,Cardio,,,2070.0,m,607.0,,,,3.4102141680395386,Legs,0,
 2015-12-28,Running (Treadmill),Cardio,,,1.01,mi,604.0,,,,0.001672185430463576,Legs,0,
 2015-12-28,Stair Machine,Cardio,,,190.0,m,600.0,,,,0.31666666666666665,Legs,0,
@@ -2546,18 +2546,18 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2017-01-25,Reverse Cable Curl,Forearms,40.0,8.0,,,,,320.0,50.666666666666664,,Back,1,
 2017-01-25,Reverse Cable Curl,Forearms,35.0,8.0,,,,,280.0,44.333333333333336,,Back,1,
 2017-01-25,Reverse Cable Curl,Forearms,35.0,8.0,,,,,280.0,44.333333333333336,,Back,1,
-2017-01-28,Dumbbell Lunges,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Abs,1,
-2017-01-28,Dumbbell Lunges,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Abs,1,
-2017-01-28,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-01-28,Oblique Curls,Abs,75.0,8.0,,,,,600.0,95.0,,Abs,1,
-2017-01-28,Oblique Curls,Abs,75.0,12.0,,,,,900.0,105.0,,Abs,1,
-2017-01-28,Oblique Curls,Abs,75.0,12.0,,,,,900.0,105.0,,Abs,1,
-2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Abs,1,
-2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Abs,1,
-2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Abs,1,
-2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Abs,1,
-2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Abs,1,
-2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Abs,1,
+2017-01-28,Dumbbell Lunges,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Legs,1,
+2017-01-28,Dumbbell Lunges,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Legs,1,
+2017-01-28,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-01-28,Oblique Curls,Abs,75.0,8.0,,,,,600.0,95.0,,Legs,1,
+2017-01-28,Oblique Curls,Abs,75.0,12.0,,,,,900.0,105.0,,Legs,1,
+2017-01-28,Oblique Curls,Abs,75.0,12.0,,,,,900.0,105.0,,Legs,1,
+2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Legs,1,
+2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Legs,1,
+2017-01-28,One-Legged Dumbbell Deadlift,Legs,50.0,8.0,,,,,400.0,63.333333333333336,,Legs,1,
+2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Legs,1,
+2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Legs,1,
+2017-01-28,Pallof Press with Rotation,Abs,25.0,8.0,,,,,200.0,31.666666666666668,,Legs,1,
 2017-01-30,Flat Dumbbell Bench Press,Chest,50.0,8.0,,,,,400.0,63.333333333333336,,Chest,1,
 2017-01-30,Flat Dumbbell Bench Press,Chest,60.0,4.0,,,,,240.0,68.0,,Chest,1,
 2017-01-30,Flat Dumbbell Bench Press,Chest,65.0,8.0,,,,,520.0,82.33333333333333,,Chest,1,
@@ -2589,18 +2589,18 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2017-02-02,Bent over Standing Dumbbell Flyes,Shoulders,17.5,8.0,,,,,140.0,22.166666666666668,,Back,1,
 2017-02-02,Bent over Standing Dumbbell Flyes,Shoulders,17.5,8.0,,,,,140.0,22.166666666666668,,Back,1,
 2017-02-02,Bent over Standing Dumbbell Flyes,Shoulders,17.5,8.0,,,,,140.0,22.166666666666668,,Back,1,
-2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Abs,1,
-2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Abs,1,
-2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Abs,1,
-2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Abs,1,
-2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Abs,1,
-2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Abs,1,
-2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Abs,1,
-2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Abs,1,
-2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Abs,1,
+2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-04,Dumbbell Lunges,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Legs,1,
+2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Legs,1,
+2017-02-04,Oblique Curls,Abs,75.0,9.0,,,,,675.0,97.5,,Legs,1,
+2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Legs,1,
+2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Legs,1,
+2017-02-04,One-Legged Dumbbell Deadlift,Legs,55.0,8.0,,,,,440.0,69.66666666666667,,Legs,1,
+2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Legs,1,
+2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Legs,1,
+2017-02-04,Pallof Press with Rotation,Abs,30.0,8.0,,,,,240.0,38.0,,Legs,1,
 2017-02-06,Flat Dumbbell Bench Press,Chest,50.0,6.0,,,,,300.0,60.0,,Chest,1,
 2017-02-06,Flat Dumbbell Bench Press,Chest,65.0,4.0,,,,,260.0,73.66666666666667,,Chest,1,
 2017-02-06,Flat Dumbbell Bench Press,Chest,70.0,8.0,,,,,560.0,88.66666666666667,,Chest,1,
@@ -2642,18 +2642,18 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2017-02-09,Reverse Cable Curl,Forearms,40.0,8.0,,,,,320.0,50.666666666666664,,Back,1,
 2017-02-09,Bent over Standing Dumbbell Flyes,Shoulders,20.0,8.0,,,,,160.0,25.333333333333332,,Back,1,
 2017-02-09,Bent over Standing Dumbbell Flyes,Shoulders,20.0,8.0,,,,,160.0,25.333333333333332,,Back,1,
-2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Abs,1,
-2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Abs,1,
-2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Abs,1,
-2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Abs,1,
-2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Abs,1,
-2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Abs,1,
-2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Abs,1,
-2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Abs,1,
-2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Abs,1,
-2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Abs,1,
+2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Legs,1,
+2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Legs,1,
+2017-02-11,Dumbbell Lunges,Legs,65.0,8.0,,,,,520.0,82.33333333333333,,Legs,1,
+2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Legs,1,
+2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Legs,1,
+2017-02-11,Oblique Curls,Abs,75.0,10.0,,,,,750.0,100.0,,Legs,1,
+2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-11,One-Legged Dumbbell Deadlift,Legs,60.0,8.0,,,,,480.0,76.0,,Legs,1,
+2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Legs,1,
+2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Legs,1,
+2017-02-11,Pallof Press with Rotation,Abs,35.0,8.0,,,,,280.0,44.333333333333336,,Legs,1,
 2017-02-14,Flat Dumbbell Bench Press,Chest,45.0,12.0,,,,,540.0,63.0,,Chest,1,
 2017-02-14,Flat Dumbbell Bench Press,Chest,45.0,12.0,,,,,540.0,63.0,,Chest,1,
 2017-02-14,Flat Dumbbell Bench Press,Chest,45.0,12.0,,,,,540.0,63.0,,Chest,1,
@@ -5128,18 +5128,6 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2018-10-01,Decline Cable Fly,Chest,125.0,10.0,,,,,1250.0,166.66666666666666,,Chest,1,Princess Diana Gains Guide
 2018-10-01,Decline Cable Fly,Chest,125.0,6.0,,,,,750.0,150.0,,Chest,1,Princess Diana Gains Guide
 2018-10-01,Decline Cable Fly,Chest,125.0,4.0,,,,,500.0,141.66666666666666,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Barbell Bench Press,Chest,115.0,10.0,,,,,1150.0,153.33333333333334,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Barbell Bench Press,Chest,160.0,10.0,,,,,1600.0,213.33333333333334,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Barbell Bench Press,Chest,155.0,10.0,,,,,1550.0,206.66666666666666,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Barbell Bench Press,Chest,155.0,10.0,,,,,1550.0,206.66666666666666,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
-2018-10-01,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
 2018-10-01,Flat Barbell Bench Press,Chest,0.0,10.0,,,,,0.0,0.0,,Chest,0,Princess Diana Gains Guide
 2018-10-01,Flat Barbell Bench Press,Chest,0.0,10.0,,,,,0.0,0.0,,Chest,0,Princess Diana Gains Guide
 2018-10-01,Flat Barbell Bench Press,Chest,0.0,10.0,,,,,0.0,0.0,,Chest,0,Princess Diana Gains Guide
@@ -5562,3 +5550,50 @@ date,exercise,category,weight,reps,distance,distance_unit,time,comment,volume,on
 2018-12-26,Lower Chest Bracket Pushups,Chest,1.0,7.0,,,,,7.0,1.2333333333333334,,Chest,1,Princess Diana Gains Guide
 2018-12-26,Decline Barbell Bench Press,Chest,165.0,2.0,,,,,330.0,176.0,,Chest,1,Princess Diana Gains Guide
 2018-12-26,Decline Lower Chest Dumbbell Fly,Chest,30.0,2.0,,,,,60.0,32.0,,Chest,1,Princess Diana Gains Guide
+2018-12-29,Decline Oblique Chops,Abs,1.0,18.0,,,,,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Decline Oblique Chops,Abs,1.0,18.0,,,,,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Decline Oblique Chops,Abs,1.0,0.0,,,,,0.0,1.0,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Ab-Wheel Rollout Side-Side-Front,Abs,1.0,18.0,,,,The wheel at the Portage YMCA is much smaller than New York Sports Clubs. Left groin began hurting during this set.,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Ab-Wheel Rollout Side-Side-Front,Abs,1.0,18.0,,,,,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Ab-Wheel Rollout Side-Side-Front,Abs,1.0,20.0,,,,,20.0,1.6666666666666665,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Med Ball Straight Leg Spread Eagles,Abs,1.0,18.0,,,,,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Med Ball Straight Leg Spread Eagles,Abs,1.0,18.0,,,,,18.0,1.6,,Abs,1,Princess Diana Gains Guide
+2018-12-29,Med Ball Straight Leg Spread Eagles,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Mounted Oblique Leans,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Mounted Oblique Leans,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Mounted Oblique Leans,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Hanging Front Snap Kick Raise,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Hanging Front Snap Kick Raise,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2018-12-29,Hanging Front Snap Kick Raise,Abs,0.0,20.0,,,,,0.0,0.0,,Abs,0,Princess Diana Gains Guide
+2019-01-02,Decline Barbell Bench Press,Chest,115.0,10.0,,,,,1150.0,153.33333333333334,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Barbell Bench Press,Chest,170.0,10.0,,,,,1700.0,226.66666666666666,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Barbell Bench Press,Chest,170.0,10.0,,,,,1700.0,226.66666666666666,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Barbell Bench Press,Chest,170.0,10.0,,,,,1700.0,226.66666666666666,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Lower Chest Dumbbell Fly,Chest,30.0,10.0,,,,,300.0,40.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Lower Chest Dumbbell Fly,Chest,35.0,10.0,,,,,350.0,46.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Lower Chest Dumbbell Fly,Chest,35.0,7.0,,,,,245.0,43.166666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Lower Chest Dumbbell Fly,Chest,35.0,3.0,,,,,105.0,38.5,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Lower Chest Bracket Pushups,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Barbell Bench Press,Chest,115.0,10.0,,,,,1150.0,153.33333333333334,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Barbell Bench Press,Chest,115.0,10.0,,,,,1150.0,153.33333333333334,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Barbell Bench Press,Chest,115.0,7.0,,,,,805.0,141.83333333333334,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Pushup,Chest,1.0,7.0,,,,,7.0,1.2333333333333334,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Pushup,Chest,1.0,8.0,,,,,8.0,1.2666666666666666,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Pushup,Chest,1.0,4.0,,,,,4.0,1.1333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Single Arm Hammer Strength Press,Chest,30.0,5.0,,,,,150.0,35.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Single Arm Hammer Strength Press,Chest,30.0,4.0,,,,,120.0,34.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Single Arm Hammer Strength Press,Chest,30.0,4.0,,,,,120.0,34.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,50.0,7.0,,,,,350.0,61.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,60.0,3.0,,,,,180.0,66.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,50.0,4.0,,,,,200.0,56.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Parallel Bar Triceps Dip,Chest,1.0,10.0,,,,,10.0,1.3333333333333333,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Incline Barbell Bench Press,Chest,115.0,3.0,,,,,345.0,126.5,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,50.0,4.0,,,,,200.0,56.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,50.0,4.0,,,,,200.0,56.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,50.0,4.0,,,,,200.0,56.666666666666664,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,60.0,3.0,,,,,180.0,66.0,,Chest,1,Princess Diana Gains Guide
+2019-01-02,Decline Cable Fly,Chest,60.0,2.0,,,,,120.0,64.0,,Chest,1,Princess Diana Gains Guide
