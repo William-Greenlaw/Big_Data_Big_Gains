@@ -1,0 +1,2 @@
+# ignore all fitbit biometric data
+fitbit/*.csv
