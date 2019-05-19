@@ -1,0 +1,24 @@
+# Injury summary
+- 1 major back injury
+    - Suspected fractured vertabra on right side in high school while squatting with poor form.
+    - Tweaked lower left back from a silly messenger bag injury in college.
+    - Tweaked right rear delt from overexersion on pullups in 2014 in college.
+    - Done more workouts over time to correct imbalance between chest and back.
+- 4 major chest and shoulder injuries since high school
+    - Shoulder impingement in high school from lifting too much chest and not enough back.
+    - Injury in shoulder 2016 from lifting too heavy on benchpress.
+    - Shoulder impingement in 2016-2017 from lifting too much chest and not enough back.
+    - Returned shoulder injury
+- Injuries to my right leg beginning as far back as 2014 or further
+    - Right leg dominant since elementary school; 
+    - hyperextended my right hamstring in middle school while kicking high without stretching doing tae kwon do
+    - hyperextended my right knee in high school while squatting
+    - overuse injury of my right instep beginning in college from martial arts
+    - overuse injury of right achilles heel beginning at an unknown time
+    - tore my right groin and right inner glute in 2013 at the end of high school track season
+    - suspected bursitis injury in my right hip in spring 2017 in college
+- 1 small undiagnosed ab injury
+    - Tweaked upper right ab muscle 
+- Sensitive forearms
+    - Injured right forearm in the summer of 2016 while doing preacher curls; curling motions with too much weight when my palms are facing upwards has always hurts my wrist area; could be anatomy, could be weak forearms
+    - Squished ulna side of my left wrist in 2018 while boxing due to improper form on left hook
