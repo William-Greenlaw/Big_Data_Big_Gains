@@ -1,0 +1,1561 @@
+id,date,routine,category,exercise,sets,reps,volume,one_rep_max
+1,2014-06-07,,Back,Lat Pulldown,3,30,4500.0,200
+1,2014-06-07,,Back,Pull Up,3,14,14.0,1
+1,2014-06-07,,Back,Seated Back Extension,3,30,3600.0,160
+2,2014-06-08,,Chest,Flat Dumbbell Bench Press,3,30,1650.0,73
+3,2014-06-10,,Legs,Leg Press,3,30,6750.0,300
+3,2014-06-10,,Legs,Seated Leg Curl Machine,3,30,6150.0,280
+4,2014-06-17,,Back,Dumbbell Hammer Curl,2,13,455.0,44
+4,2014-06-17,,Chest,Flat Dumbbell Bench Press,3,28,1540.0,73
+6,2014-06-19,,Back,Dumbbell Hammer Curl,2,11,415.0,48
+6,2014-06-19,,Chest,Flat Dumbbell Bench Press,2,20,1200.0,80
+6,2014-06-19,,Legs,Leg Press,3,30,7050.0,320
+6,2014-06-19,,Back,Pull Up,3,15,15.0,1
+6,2014-06-19,,Legs,Standing Calf Raise Machine,3,30,2100.0,93
+7,2014-06-22,,Legs,Leg Press,3,30,7650.0,340
+7,2014-06-22,,Back,Pull Up,4,25,25.0,1
+7,2014-06-22,,Legs,Standing Calf Raise Machine,3,30,3750.0,180
+8,2014-06-24,,Back,Dumbbell Hammer Curl,4,25,900.0,46
+8,2014-06-24,,Chest,Flat Dumbbell Bench Press,3,25,1500.0,80
+8,2014-06-24,,Back,Lat Pulldown,3,30,4500.0,200
+8,2014-06-24,,Back,Pull Up,3,19,19.0,1
+11,2014-07-01,,Back,Dumbbell Curl,1,10,350.0,46
+11,2014-07-01,,Chest,Flat Dumbbell Bench Press,3,26,1560.0,80
+12,2014-07-02,,Back,Lat Pulldown,3,30,4650.0,206
+12,2014-07-02,,Back,Pull Up,3,13,13.0,1
+13,2014-07-05,,Abs,Undefined Ab Workout,1,1,1.0,1
+14,2014-07-07,,Back,Dumbbell Hammer Curl,3,19,665.0,46
+14,2014-07-07,,Chest,Flat Dumbbell Bench Press,3,30,1850.0,86
+15,2014-07-09,,Back,Dumbbell Row,3,30,1800.0,80
+15,2014-07-09,,Back,Pull Up,3,15,15.0,1
+15,2014-07-09,,Back,Seated Cable Row,3,24,2880.0,152
+16,2014-07-10,,Abs,Undefined Ab Workout,1,1,1.0,1
+17,2014-07-13,,Chest,Dumbbell Overhead Triceps Extension,2,20,1000.0,66
+17,2014-07-13,,Chest,Dumbbell Tricep Kickbacks,1,10,300.0,40
+18,2014-07-15,,Abs,Undefined Ab Workout,1,1,1.0,1
+19,2014-07-16,,Chest,Flat Dumbbell Bench Press,3,30,1950.0,86
+21,2014-07-21,,Abs,Undefined Ab Workout,1,1,1.0,1
+22,2014-07-22,,Legs,Leg Press,3,30,7650.0,340
+22,2014-07-22,,Back,Pull Up,4,25,25.0,1
+22,2014-07-22,,Legs,Standing Calf Raise Machine,3,30,3750.0,180
+23,2014-07-23,,Back,Lat Pulldown,3,30,4500.0,200
+23,2014-07-23,,Back,T-Bar Row,3,30,3600.0,160
+25,2014-07-27,,Shoulders,Dumbbell Shoulder Press,3,30,1350.0,60
+25,2014-07-27,,Chest,Seated Machine Fly,5,25,3885.0,213
+25,2014-07-27,,Abs,Undefined Ab Workout,1,1,1.0,1
+26,2014-07-28,,Abs,Undefined Ab Workout,1,1,1.0,1
+27,2014-07-30,,Back,Lat Pulldown,3,30,4500.0,200
+27,2014-07-30,,Back,T-Bar Row,3,30,4050.0,180
+29,2014-08-04,,Abs,Undefined Ab Workout,1,1,1.0,1
+30,2014-08-07,,Back,Pull Up,3,14,14.0,1
+31,2014-08-08,,Chest,Seated Machine Fly,6,26,4260.0,220
+33,2014-08-12,,Abs,Undefined Ab Workout,1,1,1.0,1
+34,2014-08-14,,Back,Dumbbell Row,3,30,1950.0,86
+34,2014-08-14,,Back,Pull Up,3,17,17.0,1
+35,2014-08-15,,Shoulders,Dumbbell Shoulder Press,5,34,1130.0,46
+36,2014-08-17,,Chest,Flat Dumbbell Bench Press,15,196,14030.0,120
+37,2014-08-18,,Back,Bent Over Row,15,194,17840.0,142
+38,2014-09-03,,Chest,Flat Dumbbell Bench Press,15,196,14030.0,120
+39,2014-09-06,,Back,Bent Over Row,15,194,17840.0,142
+40,2014-10-17,,Back,Bent Over Row,7,90,8400.0,142
+40,2014-10-17,,Back,Lat Pulldown,2,30,3450.0,172
+41,2014-10-18,,Chest,Flat Barbell Bench Press,5,70,5300.0,120
+42,2014-11-21,,Abs,Undefined Ab Workout,1,1,1.0,1
+43,2014-11-30,,Legs,Dumbbell Calf Raise,1,10,800.0,106
+43,2014-11-30,,Back,Dumbbell Curl,5,30,850.0,40
+43,2014-11-30,,Legs,Dumbbell Lunges,1,10,400.0,53
+43,2014-11-30,,Chest,Flat Barbell Bench Press,3,15,2625.0,221
+43,2014-11-30,,Chest,Flat Dumbbell Bench Press,3,30,1550.0,73
+44,2014-12-18,,Chest,Flat Dumbbell Bench Press,15,141,6055.0,66
+45,2014-12-19,,Legs,Dumbbell Calf Raise,3,30,3000.0,133
+45,2014-12-19,,Legs,Dumbbell Lunges,1,10,400.0,53
+46,2014-12-20,,Back,Dumbbell Curl,3,22,550.0,33
+46,2014-12-20,,Back,Lat Pulldown,3,24,3090.0,171
+46,2014-12-20,,Back,Pull Up,4,22,22.0,1
+47,2014-12-22,,Abs,Undefined Ab Workout,1,1,1.0,1
+48,2014-12-26,,Chest,Flat Dumbbell Bench Press,15,124,6510.0,73
+48,2014-12-26,,Back,Lat Pulldown,3,30,4050.0,180
+48,2014-12-26,,Back,Pull Up,4,23,23.0,1
+49,2014-12-27,,Legs,Dumbbell Lunges,3,30,1400.0,66
+49,2014-12-27,,Abs,Undefined Ab Workout,1,1,1.0,1
+50,2014-12-29,,Legs,Dumbbell Lunges,3,30,1450.0,66
+50,2014-12-29,,Abs,Undefined Ab Workout,1,1,1.0,1
+51,2014-12-30,,Chest,Flat Barbell Bench Press,4,31,4760.0,202
+51,2014-12-30,,Chest,Incline Barbell Bench Press,3,24,2340.0,143
+51,2014-12-30,,Back,Pull Up,3,14,14.0,1
+51,2014-12-30,,Legs,Seated Calf Raise Machine,3,30,1900.0,93
+52,2014-12-31,,Back,Hammer Strength Row,3,30,1650.0,73
+52,2014-12-31,,Back,Lat Pulldown,3,17,2520.0,200
+52,2014-12-31,,Back,Pull Up,4,26,26.0,1
+53,2015-01-02,,Abs,Undefined Ab Workout,1,1,1.0,1
+54,2015-01-03,,Legs,Dumbbell Lunges,3,30,1550.0,73
+55,2015-01-05,,Chest,Flat Dumbbell Bench Press,6,60,3450.0,80
+56,2015-01-06,,Back,Deadlift,4,40,5200.0,180
+56,2015-01-06,,Back,Lat Pulldown,3,30,4200.0,186
+56,2015-01-06,,Back,Pull Up,3,20,20.0,1
+56,2015-01-06,,Shoulders,Rear Delt Machine Fly,4,48,3900.0,119
+57,2015-01-09,,Back,Deadlift,1,10,1300.0,173
+57,2015-01-09,,Legs,Dumbbell Lunges,4,40,2150.0,73
+57,2015-01-09,,Back,Dumbbell Row,3,30,1500.0,66
+57,2015-01-09,,Abs,Undefined Ab Workout,1,1,1.0,1
+58,2015-01-12,,Chest,Flat Dumbbell Bench Press,2,20,1000.0,66
+59,2015-01-13,,Abs,Undefined Ab Workout,1,1,1.0,1
+60,2015-02-15,,Back,Dumbbell Curl,5,30,870.0,40
+60,2015-02-15,,Chest,Flat Dumbbell Bench Press,8,65,2965.0,66
+61,2015-03-03,,Back,Lat Pulldown,9,81,9700.0,173
+62,2015-03-15,,Legs,Dumbbell Calf Raise,5,50,4500.0,120
+62,2015-03-15,,Legs,Dumbbell Lunges,3,30,1350.0,60
+62,2015-03-15,,Legs,Hip Abduction,3,30,5250.0,233
+62,2015-03-15,,Legs,Hip Adduction,3,30,1950.0,86
+64,2015-03-18,,Abs,Undefined Ab Workout,1,1,1.0,1
+65,2015-03-19,,Shoulders,Dumbbell Shoulder Press,3,24,720.0,38
+65,2015-03-19,,Chest,Flat Barbell Bench Press,4,28,3970.0,180
+66,2015-03-20,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+67,2015-03-21,,Back,Dumbbell Hammer Curl,3,25,525.0,29
+67,2015-03-21,,Back,Lat Pulldown,6,50,6760.0,186
+68,2015-03-24,,Legs,Dumbbell Calf Raise,5,50,5000.0,133
+68,2015-03-24,,Legs,Dumbbell Lunges,4,40,1800.0,66
+68,2015-03-24,,Legs,Hip Abduction,3,30,5400.0,240
+68,2015-03-24,,Legs,Hip Adduction,3,30,2100.0,93
+69,2015-03-27,,Chest,Flat Dumbbell Bench Press,6,45,2125.0,73
+70,2015-03-28,,Back,Dumbbell Hammer Curl,4,22,495.0,30
+70,2015-03-28,,Back,Lat Pulldown,3,30,4400.0,200
+70,2015-03-28,,Back,Pull Up,3,8,8.0,1
+70,2015-03-28,,Back,Seated Cable Row,3,30,3200.0,146
+71,2015-06-20,,Back,Dumbbell Curl,4,40,1250.0,46
+71,2015-06-20,,Legs,Dumbbell Lunges,4,40,1850.0,66
+71,2015-06-20,,Chest,Rope Push Down,4,40,3200.0,120
+72,2015-06-21,,Back,Dumbbell Curl,4,40,1300.0,46
+72,2015-06-21,,Shoulders,Dumbbell Shoulder Press,4,40,1300.0,46
+73,2015-06-22,,Back,Dumbbell Row,4,40,1600.0,60
+73,2015-06-22,,Chest,Flat Dumbbell Bench Press,4,40,1950.0,66
+73,2015-06-22,,Chest,Incline Dumbbell Bench Press,4,40,1700.0,60
+73,2015-06-22,,Back,Lat Pulldown,4,40,5300.0,186
+74,2015-06-24,,Legs,Barbell Squat,2,20,2100.0,153
+74,2015-06-24,,Legs,Leg Press,4,40,9900.0,360
+75,2015-07-24,,Back,Dumbbell Row,4,40,2200.0,80
+75,2015-07-24,,Chest,Flat Barbell Bench Press,3,16,2510.0,192
+75,2015-07-24,,Chest,Flat Dumbbell Bench Press,4,40,2050.0,73
+75,2015-07-24,,Back,Lat Pulldown,4,30,4050.0,186
+76,2015-07-25,,Legs,Dumbbell Calf Raise,4,40,4800.0,160
+76,2015-07-25,,Back,Dumbbell Curl,3,30,1000.0,46
+76,2015-07-25,,Legs,Dumbbell Lunges,4,40,1950.0,66
+76,2015-07-25,,Back,Pull Up,3,10,10.0,1
+76,2015-07-25,,Chest,Rope Push Down,2,20,1400.0,93
+77,2015-07-26,,Shoulders,Dumbbell Shoulder Press,4,40,1600.0,60
+77,2015-07-26,,Back,Lat Pulldown,4,40,5900.0,200
+77,2015-07-26,,Shoulders,Lateral Dumbbell Raise,1,10,175.0,23
+78,2015-07-27,,Back,Dumbbell Curl,4,31,1005.0,45
+78,2015-07-27,,Back,Pull Up,3,10,10.0,1
+78,2015-07-27,,Chest,Rope Push Down,4,40,3100.0,106
+79,2015-07-29,,Back,Deadlift,4,31,4545.0,209
+80,2015-10-17,,Back,Dumbbell Row,3,30,1350.0,60
+80,2015-10-17,,Chest,Flat Dumbbell Bench Press,3,30,1500.0,66
+80,2015-10-17,,Chest,Incline Dumbbell Bench Press,3,30,1050.0,46
+80,2015-10-17,,Back,Lat Pulldown,3,30,3800.0,173
+81,2015-11-01,,Back,Dumbbell Row,3,30,1350.0,60
+81,2015-11-01,,Chest,Flat Dumbbell Bench Press,3,30,1500.0,66
+82,2015-12-22,,Chest,Flat Barbell Bench Press,5,25,3825.0,180
+82,2015-12-22,,Chest,Flat Dumbbell Bench Press,7,65,2070.0,52
+82,2015-12-22,,Chest,Flat Dumbbell Fly,4,48,1500.0,49
+82,2015-12-22,,Chest,Seated Machine Fly,5,53,4670.0,151
+83,2015-12-23,,Back,Barbell Curl,5,48,2400.0,70
+83,2015-12-23,,Back,Barbell Row,4,44,2860.0,91
+85,2015-12-26,,Back,Barbell Shrug,4,48,4560.0,133
+85,2015-12-26,,Chest,Cable Overhead Triceps Extension,4,48,1080.0,37
+85,2015-12-26,,Chest,Close Grip Barbell Bench Press,4,48,4320.0,133
+85,2015-12-26,,Shoulders,Hammer Strength Shoulder Press,4,47,2410.0,77
+85,2015-12-26,,Shoulders,Overhead Press,4,33,2805.0,110
+86,2015-12-28,,Legs,Barbell Squat,6,30,3750.0,180
+86,2015-12-28,,Back,Deadlift,6,30,4130.0,182
+86,2015-12-28,,Legs,Seated Calf Raise Machine,4,80,7200.0,150
+87,2015-12-30,,Chest,Flat Barbell Bench Press,5,28,4330.0,192
+87,2015-12-30,,Chest,Flat Dumbbell Bench Press,4,34,1420.0,60
+87,2015-12-30,,Chest,Flat Dumbbell Fly,4,48,1680.0,49
+87,2015-12-30,,Chest,Seated Machine Fly,4,48,4620.0,140
+88,2016-01-02,,Back,Barbell Curl,5,46,2700.0,84
+88,2016-01-02,,Back,Barbell Row,4,48,3840.0,119
+88,2016-01-02,,Back,Cable Curl,4,48,1320.0,38
+88,2016-01-02,,Back,Dumbbell Concentration Curl,1,12,180.0,21
+88,2016-01-02,,Back,Lat Pulldown,3,36,4500.0,175
+88,2016-01-02,,Back,Seated Back Extension,3,36,6300.0,259
+88,2016-01-02,,Back,T-Bar Row,4,36,3240.0,126
+89,2016-01-04,,Back,Barbell Shrug,4,48,4800.0,140
+89,2016-01-04,,Chest,Cable Overhead Triceps Extension,5,51,1702.5,48
+89,2016-01-04,,Chest,Close Grip Barbell Bench Press,6,50,5050.0,147
+89,2016-01-04,,Shoulders,Hammer Strength Shoulder Press,4,48,3060.0,91
+89,2016-01-04,,Shoulders,Lateral Dumbbell Raise,4,48,720.0,21
+89,2016-01-04,,Shoulders,Overhead Press,4,29,2695.0,120
+89,2016-01-04,,Chest,Rope Push Down,4,48,1200.0,38
+90,2016-01-05,,Legs,Barbell Squat,5,28,4390.0,196
+90,2016-01-05,,Back,Deadlift,5,25,3875.0,192
+90,2016-01-05,,Legs,Seated Calf Raise Machine,4,80,8000.0,166
+91,2016-01-10,,Chest,Decline Dumbbell Benchpress,4,48,1920.0,56
+91,2016-01-10,,Chest,Flat Barbell Bench Press,5,27,4405.0,204
+91,2016-01-10,,Chest,Flat Dumbbell Fly,4,48,1920.0,56
+91,2016-01-10,,Chest,Seated Machine Fly,4,48,5040.0,147
+92,2016-01-11,,Back,Barbell Curl,6,48,3156.0,93
+92,2016-01-11,,Back,Barbell Row,3,36,3240.0,126
+92,2016-01-11,,Back,Cable Curl,5,48,1455.0,45
+92,2016-01-11,,Back,Dumbbell Concentration Curl,4,48,780.0,28
+92,2016-01-11,,Back,Lat Pulldown,4,36,4860.0,189
+92,2016-01-11,,Shoulders,Rear Delt Machine Fly,3,36,3060.0,133
+92,2016-01-11,,Back,Seated Back Extension,3,36,5880.0,266
+92,2016-01-11,,Abs,The Choi Ab Routine,1,1,1.0,1
+93,2016-01-14,,Abs,The Choi Ab Routine,1,1,1.0,1
+94,2016-01-21,,Back,Barbell Shrug,2,24,2640.0,154
+94,2016-01-21,,Chest,Cable Overhead Triceps Extension,4,48,1620.0,52
+94,2016-01-21,,Shoulders,Lateral Dumbbell Raise,4,48,720.0,21
+94,2016-01-21,,Shoulders,Overhead Press,6,32,3120.0,126
+94,2016-01-21,,Chest,Rope Push Down,4,48,1200.0,38
+95,2016-02-04,,Chest,Decline Dumbbell Benchpress,4,32,1440.0,57
+95,2016-02-04,,Chest,Flat Barbell Bench Press,5,30,4750.0,198
+95,2016-02-04,,Chest,Flat Dumbbell Fly,5,50,2000.0,56
+95,2016-02-04,,Chest,Seated Machine Fly,4,48,5460.0,161
+96,2016-02-09,,Back,Barbell Curl,7,49,3200.0,98
+96,2016-02-09,,Back,Lat Pulldown,4,31,4287.5,196
+96,2016-02-09,,Shoulders,Rear Delt Machine Fly,3,33,3200.0,140
+97,2016-02-16,,Legs,Barbell Squat,3,16,2160.0,171
+97,2016-02-16,,Back,Deadlift,5,28,4320.0,192
+97,2016-02-16,,Legs,Seated Calf Raise Machine,4,80,8000.0,166
+98,2016-02-18,,Back,Barbell Shrug,4,48,5280.0,154
+98,2016-02-18,,Shoulders,Hammer Strength Shoulder Press,4,34,2788.0,114
+98,2016-02-18,,Shoulders,Overhead Press,4,22,2230.0,133
+98,2016-02-18,,Chest,Rope Push Down,4,34,1514.0,63
+99,2016-03-15,,Chest,Flat Barbell Bench Press,7,35,5850.0,210
+100,2016-03-16,,Back,Barbell Curl,9,48,2915.0,97
+101,2016-03-22,,Legs,Barbell Squat,7,35,6075.0,215
+102,2016-03-24,,Chest,Flat Barbell Bench Press,9,37,6245.0,239
+103,2016-03-31,,Back,Barbell Curl,9,62,3740.0,105
+103,2016-03-31,,Back,Lat Pulldown,1,12,1680.0,196
+104,2016-04-01,,Chest,Cable Overhead Triceps Extension,4,48,1620.0,52
+104,2016-04-01,,Shoulders,Overhead Press,7,33,2975.0,120
+104,2016-04-01,,Chest,Rope Push Down,4,48,2112.0,63
+105,2016-04-05,,Legs,Barbell Squat,7,35,6200.0,221
+105,2016-04-05,,Legs,Dumbbell Calf Raise,5,100,10000.0,166
+105,2016-04-05,,Legs,Hip Abduction,3,30,5400.0,240
+105,2016-04-05,,Legs,Hip Adduction,3,30,2700.0,120
+106,2016-04-12,,Chest,Decline Dumbbell Benchpress,4,48,2160.0,63
+106,2016-04-12,,Chest,Flat Barbell Bench Press,6,33,5655.0,221
+106,2016-04-12,,Chest,Paramount Standing Machine Fly,4,40,2000.0,66
+107,2016-04-13,,Back,Barbell Curl,9,47,2850.0,98
+107,2016-04-13,,Back,Lat Pulldown,10,56,7800.0,210
+107,2016-04-13,,Back,Seated Cable Row,5,40,3040.0,101
+108,2016-04-15,,Legs,Barbell Squat,5,28,4855.0,233
+108,2016-04-15,,Legs,Dumbbell Calf Raise,5,100,11000.0,183
+108,2016-04-15,,Legs,Hip Abduction,4,40,7350.0,246
+108,2016-04-15,,Legs,Hip Adduction,3,30,2850.0,126
+109,2016-04-16,,Back,Barbell Shrug,4,48,5760.0,168
+109,2016-04-16,,Shoulders,Overhead Press,5,32,3520.0,152
+109,2016-04-16,,Chest,Paramount Cable Overhead Tricep Extension,4,33,1320.0,52
+109,2016-04-16,,Chest,Paramount Rope Pushdown,5,48,2340.0,70
+110,2016-04-19,,Legs,Barbell Squat,7,38,6980.0,239
+110,2016-04-19,,Legs,Dumbbell Calf Raise,5,100,12000.0,200
+110,2016-04-19,,Legs,Hip Abduction,3,30,5850.0,260
+110,2016-04-19,,Legs,Hip Adduction,3,30,3000.0,133
+111,2016-04-22,,Chest,Flat Barbell Bench Press,6,33,5755.0,227
+111,2016-04-22,,Chest,Paramount Standing Machine Fly,4,40,2400.0,80
+112,2016-04-23,,Back,Barbell Curl,1,12,540.0,63
+112,2016-04-23,,Back,EZ-Bar Preacher Curl,5,26,1910.0,95
+112,2016-04-23,,Back,Lat Pulldown,3,36,5040.0,210
+113,2016-04-24,,Shoulders,Overhead Press,5,40,4440.0,152
+114,2016-05-03,,Legs,Barbell Squat,7,38,7105.0,245
+114,2016-05-03,,Legs,Dumbbell Calf Raise,5,100,12500.0,208
+114,2016-05-03,,Legs,Hip Abduction,3,30,6000.0,266
+114,2016-05-03,,Legs,Hip Adduction,3,30,3150.0,140
+115,2016-05-16,,Legs,Barbell Squat,7,38,7230.0,250
+115,2016-05-16,,Legs,Dumbbell Calf Raise,5,100,13000.0,216
+115,2016-05-16,,Legs,Hip Adduction,4,40,4000.0,146
+116,2016-05-17,,Chest,Decline Dumbbell Benchpress,4,44,2200.0,70
+116,2016-05-17,,Chest,Flat Barbell Bench Press,7,38,6855.0,233
+116,2016-05-17,,Chest,Seated Machine Fly,4,48,5760.0,168
+117,2016-05-18,,Back,Cable Curl,4,48,1920.0,59
+117,2016-05-18,,Back,EZ-Bar Preacher Curl,4,40,3000.0,100
+117,2016-05-18,,Back,Lat Pulldown,6,36,5315.0,217
+117,2016-05-18,,Shoulders,Rear Delt Machine Fly,3,36,3780.0,147
+117,2016-05-18,,Back,Seated Cable Row,5,40,3300.0,110
+118,2016-05-20,,Shoulders,Overhead Press,4,26,2470.0,120
+118,2016-05-20,,Chest,Rope Push Down,4,48,2160.0,66
+120,2016-05-24,,Chest,Decline Dumbbell Benchpress,4,48,2640.0,77
+120,2016-05-24,,Chest,Flat Barbell Bench Press,7,30,5550.0,239
+120,2016-05-24,,Chest,Seated Machine Fly,4,48,6000.0,175
+121,2016-05-25,,Legs,Barbell Squat,7,35,6950.0,256
+121,2016-05-25,,Legs,Dumbbell Calf Raise,5,100,13500.0,225
+121,2016-05-25,,Legs,Hip Adduction,4,40,4150.0,153
+123,2016-06-01,,Back,Cable Curl,4,48,2280.0,66
+123,2016-06-01,,Back,EZ-Bar Preacher Curl,5,45,3550.0,106
+123,2016-06-01,,Back,Lat Pulldown,4,28,4060.0,206
+123,2016-06-01,,Shoulders,Rear Delt Machine Fly,3,36,3420.0,140
+123,2016-06-01,,Back,Seated Cable Row,5,50,4700.0,133
+124,2016-06-04,,Chest,Decline Cable Fly,4,48,1680.0,49
+124,2016-06-04,,Chest,Flat Barbell Bench Press,8,34,6035.0,245
+124,2016-06-04,,Chest,Seated Machine Fly,4,48,6180.0,182
+125,2016-06-06,,Back,Barbell Shrug,4,48,6480.0,189
+125,2016-06-06,,Chest,Cable Overhead Triceps Extension,4,48,1980.0,59
+125,2016-06-06,,Chest,Close Grip Barbell Bench Press,5,60,6180.0,161
+125,2016-06-06,,Shoulders,Hammer Strength Shoulder Press,4,48,4440.0,140
+125,2016-06-06,,Chest,Rope Push Down,4,48,1920.0,56
+126,2016-06-08,,Legs,Barbell Squat,7,38,7730.0,262
+126,2016-06-08,,Legs,Dumbbell Calf Raise,5,100,14000.0,233
+126,2016-06-08,,Legs,Hip Abduction,3,30,3500.0,160
+126,2016-06-08,,Legs,Hip Adduction,4,40,4300.0,160
+126,2016-06-08,,Abs,Undefined Ab Workout,1,1,1.0,1
+127,2016-06-10,,Back,Cable Curl,4,48,2400.0,70
+127,2016-06-10,,Back,EZ-Bar Preacher Curl,6,45,3775.0,113
+127,2016-06-10,,Back,Lat Pulldown,3,24,3440.0,202
+127,2016-06-10,,Shoulders,Rear Delt Machine Fly,3,36,3420.0,140
+127,2016-06-10,,Back,Seated Cable Row,4,40,3975.0,160
+128,2016-06-11,,Chest,Flat Barbell Bench Press,4,20,3450.0,250
+129,2016-06-13,,Chest,Cable Overhead Triceps Extension,5,48,2280.0,66
+129,2016-06-13,,Shoulders,Overhead Press,4,32,2720.0,107
+129,2016-06-13,,Chest,Rope Push Down,4,48,2040.0,59
+129,2016-06-13,,Abs,Undefined Ab Workout,1,1,1.0,1
+130,2016-06-16,,Legs,Barbell Squat,8,41,8370.0,268
+130,2016-06-16,,Legs,Dumbbell Calf Raise,5,100,15000.0,250
+130,2016-06-16,,Legs,Hip Abduction,4,40,4900.0,173
+130,2016-06-16,,Legs,Hip Adduction,4,40,4900.0,173
+131,2016-06-18,,Chest,Decline Cable Fly,4,48,2160.0,63
+131,2016-06-18,,Chest,Flat Barbell Bench Press,11,57,10180.0,250
+131,2016-06-18,,Chest,Seated Machine Fly,4,47,6345.0,189
+132,2016-06-22,,Back,Barbell Shrug,4,48,6720.0,196
+132,2016-06-22,,Chest,Close Grip Barbell Bench Press,9,50,7290.0,209
+132,2016-06-22,,Shoulders,Overhead Press,7,45,4340.0,126
+132,2016-06-22,,Chest,Rope Push Down,4,48,2280.0,66
+133,2016-06-23,,Back,EZ-Bar Preacher Curl,2,18,1430.0,107
+133,2016-06-23,,Back,Lat Pulldown,4,40,6000.0,213
+133,2016-06-23,,Back,Seated Cable Row,4,40,4500.0,166
+133,2016-06-23,,Abs,Undefined Ab Workout,1,1,1.0,1
+134,2016-06-24,,Legs,Barbell Squat,8,39,8325.0,282
+135,2016-06-25,,Back,Deadlift,8,43,8905.0,268
+135,2016-06-25,,Chest,Flat Barbell Bench Press,11,40,7505.0,256
+135,2016-06-25,,Chest,Seated Machine Fly,4,48,6720.0,196
+136,2016-06-29,,Back,Barbell Shrug,4,60,4800.0,120
+136,2016-06-29,,Chest,Cable Overhead Triceps Extension,4,48,1560.0,45
+136,2016-06-29,,Chest,Close Grip Barbell Bench Press,4,48,3840.0,112
+136,2016-06-29,,Shoulders,Hammer Strength Shoulder Press,4,60,3300.0,82
+136,2016-06-29,,Shoulders,Overhead Press,4,42,2100.0,70
+136,2016-06-29,,Chest,Rope Push Down,4,48,1440.0,42
+137,2016-06-30,,Legs,Barbell Squat,5,50,5500.0,146
+137,2016-06-30,,Back,Deadlift,5,50,5750.0,153
+137,2016-06-30,,Legs,Dumbbell Calf Raise,5,125,15000.0,220
+137,2016-06-30,,Legs,Hip Abduction,6,85,6250.0,133
+137,2016-06-30,,Legs,Hip Adduction,6,85,6250.0,133
+138,2016-07-01,,Back,EZ-Bar Preacher Curl,5,60,2700.0,63
+138,2016-07-01,,Back,Lat Pulldown,5,60,5100.0,119
+138,2016-07-01,,Shoulders,Rear Delt Machine Fly,5,75,4500.0,90
+138,2016-07-01,,Back,Seated Cable Row,6,85,6100.0,113
+139,2016-07-02,,Chest,Flat Barbell Bench Press,6,55,5675.0,157
+139,2016-07-02,,Chest,Seated Machine Fly,5,75,6000.0,120
+140,2016-07-04,,Chest,Close Grip Barbell Bench Press,8,34,5610.0,203
+140,2016-07-04,,Shoulders,Overhead Press,9,43,4090.0,133
+141,2016-07-05,,Legs,Barbell Squat,9,38,8430.0,280
+141,2016-07-05,,Back,Deadlift,6,28,6550.0,274
+141,2016-07-05,,Legs,Dumbbell Calf Raise,5,100,16000.0,266
+141,2016-07-05,,Legs,Hip Abduction,4,46,5680.0,182
+141,2016-07-05,,Legs,Hip Adduction,4,46,5680.0,182
+141,2016-07-05,,Legs,Seated Leg Curl Machine,3,24,2760.0,145
+141,2016-07-05,,Abs,Undefined Ab Workout,1,1,1.0,1
+142,2016-07-06,,Back,Cable Curl,7,48,2640.0,77
+142,2016-07-06,,Back,EZ-Bar Preacher Curl,8,41,3585.0,120
+142,2016-07-06,,Back,Lat Pulldown,4,40,6150.0,220
+142,2016-07-06,,Shoulders,Rear Delt Machine Fly,3,36,3960.0,154
+142,2016-07-06,,Back,Seated Cable Row,4,40,5200.0,173
+143,2016-07-09,,Chest,Flat Barbell Bench Press,13,41,7685.0,262
+144,2016-07-11,,Back,Barbell Shrug,4,48,6960.0,203
+144,2016-07-11,,Chest,Cable Overhead Triceps Extension,7,48,2400.0,70
+144,2016-07-11,,Shoulders,Hammer Strength Shoulder Press,4,48,5640.0,175
+144,2016-07-11,,Shoulders,Overhead Press,8,50,4730.0,140
+144,2016-07-11,,Chest,Rope Push Down,4,48,2400.0,70
+145,2016-07-14,,Legs,Barbell Squat,9,39,8645.0,285
+145,2016-07-14,,Back,Deadlift,5,25,6100.0,285
+145,2016-07-14,,Legs,Dumbbell Calf Raise,5,100,17000.0,283
+146,2016-07-15,,Back,Assisted Pull Ups,5,25,975.0,45
+146,2016-07-15,,Back,EZ-Bar Preacher Curl,10,60,5400.0,126
+146,2016-07-15,,Back,Seated Cable Row,4,40,5000.0,166
+147,2016-07-16,,Chest,Decline Cable Fly,4,48,2400.0,70
+147,2016-07-16,,Chest,Decline Dumbbell Benchpress,4,48,2580.0,84
+147,2016-07-16,,Chest,Flat Barbell Bench Press,9,57,9795.0,262
+147,2016-07-16,,Chest,Seated Machine Fly,5,48,6960.0,203
+147,2016-07-16,,Abs,Undefined Ab Workout,1,1,1.0,1
+148,2016-07-18,,Shoulders,Overhead Press,9,46,4965.0,152
+149,2016-07-19,,Legs,Barbell Squat,8,42,9340.0,300
+149,2016-07-19,,Back,Deadlift,5,25,6250.0,291
+149,2016-07-19,,Legs,Dumbbell Calf Raise,5,100,18000.0,300
+149,2016-07-19,,Legs,Hip Abduction,4,44,5590.0,189
+149,2016-07-19,,Legs,Hip Adduction,4,44,5590.0,189
+149,2016-07-19,,Legs,Seated Leg Curl Machine,3,24,3120.0,164
+150,2016-07-22,,Forearms,Forearm Curls,5,100,2000.0,33
+150,2016-07-22,,Forearms,Reverse Forearm Curls,5,100,2000.0,33
+151,2016-07-25,,Legs,Barbell Squat,8,36,8410.0,306
+151,2016-07-25,,Back,Deadlift,5,25,6375.0,297
+151,2016-07-25,,Legs,Dumbbell Calf Raise,5,100,19000.0,316
+151,2016-07-25,,Legs,Hip Abduction,4,40,5200.0,186
+151,2016-07-25,,Legs,Hip Adduction,4,40,5200.0,186
+151,2016-07-25,,Legs,Seated Leg Curl Machine,3,24,3240.0,171
+152,2016-07-27,,Back,Barbell Shrug,4,48,7200.0,210
+152,2016-07-27,,Shoulders,Lateral Dumbbell Raise,4,32,600.0,25
+152,2016-07-27,,Shoulders,Overhead Press,8,48,4960.0,152
+153,2016-07-28,,Forearms,Forearm Curls,5,100,2500.0,41
+154,2016-08-02,,Legs,Barbell Squat,9,44,9810.0,312
+154,2016-08-02,,Back,Deadlift,5,25,6625.0,309
+154,2016-08-02,,Legs,Dumbbell Calf Raise,5,100,19500.0,325
+154,2016-08-02,,Legs,Hip Abduction,4,40,5500.0,193
+154,2016-08-02,,Legs,Hip Adduction,4,40,5500.0,193
+154,2016-08-02,,Legs,Seated Leg Curl Machine,3,24,3320.0,177
+155,2016-08-03,,Back,Dumbbell Hammer Curl,3,30,1050.0,53
+155,2016-08-03,,Forearms,Forearm Curls,5,100,3000.0,50
+155,2016-08-03,,Forearms,Forearm Roll-ups,3,15,150.0,11
+155,2016-08-03,,Back,Pull Up,5,25,25.0,1
+155,2016-08-03,,Back,Seated Cable Row,5,50,6400.0,180
+156,2016-08-06,,Chest,Flat Barbell Bench Press,8,40,7375.0,233
+157,2016-08-08,,Back,Barbell Shrug,4,48,7440.0,217
+157,2016-08-08,,Shoulders,Hammer Strength Shoulder Press,4,48,6240.0,182
+157,2016-08-08,,Shoulders,Overhead Press,7,47,5075.0,152
+158,2016-08-09,,Legs,Barbell Squat,9,44,9940.0,318
+158,2016-08-09,,Legs,Dumbbell Calf Raise,5,100,20000.0,333
+158,2016-08-09,,Legs,Hip Abduction,4,40,5650.0,200
+158,2016-08-09,,Legs,Hip Adduction,4,40,5650.0,200
+159,2016-08-10,,Back,Dumbbell Hammer Curl,3,30,1150.0,53
+159,2016-08-10,,Forearms,Forearm Curls,5,100,3500.0,58
+159,2016-08-10,,Forearms,Forearm Roll-ups,3,15,150.0,11
+159,2016-08-10,,Back,Pull Up,5,25,150.0,11
+159,2016-08-10,,Shoulders,Rear Delt Machine Fly,3,36,3960.0,154
+160,2016-08-12,,Chest,Decline Cable Fly,4,48,2520.0,77
+160,2016-08-12,,Chest,Decline Dumbbell Benchpress,4,48,2880.0,84
+160,2016-08-12,,Chest,Flat Barbell Bench Press,8,43,7905.0,239
+160,2016-08-12,,Abs,Oblique Curls,4,48,2160.0,63
+160,2016-08-12,,Chest,Seated Machine Fly,4,48,7200.0,210
+161,2016-08-15,,Legs,Barbell Squat,8,42,9730.0,318
+161,2016-08-15,,Legs,Dumbbell Calf Raise,5,100,20500.0,341
+161,2016-08-15,,Legs,Hip Abduction,4,40,5800.0,206
+161,2016-08-15,,Legs,Hip Adduction,4,40,5800.0,206
+162,2016-08-16,,Back,Barbell Shrug,4,48,7680.0,224
+162,2016-08-16,,Shoulders,Overhead Press,6,40,4530.0,158
+163,2016-08-17,,Back,Dumbbell Hammer Curl,3,30,1150.0,53
+163,2016-08-17,,Forearms,Forearm Roll-ups,3,15,187.5,14
+163,2016-08-17,,Back,Pull Up,5,25,187.5,8
+163,2016-08-17,,Shoulders,Rear Delt Machine Fly,3,36,4140.0,161
+164,2016-08-22,,Chest,Decline Cable Fly,4,48,3120.0,91
+164,2016-08-22,,Chest,Flat Barbell Bench Press,8,34,6575.0,245
+164,2016-08-22,,Abs,Oblique Curls,4,48,2400.0,70
+164,2016-08-22,,Chest,Seated Machine Fly,4,48,7440.0,217
+165,2016-08-24,,Legs,Barbell Squat,8,42,9860.0,324
+165,2016-08-24,,Legs,Dumbbell Calf Raise,5,100,21000.0,350
+165,2016-08-24,,Legs,Hamstring Bend And Curl,5,50,1100.0,53
+165,2016-08-24,,Legs,Hip Abduction,4,40,5950.0,213
+165,2016-08-24,,Legs,Hip Adduction,4,40,5950.0,213
+165,2016-08-24,,Legs,Seated Leg Curl Machine,3,26,3640.0,186
+166,2016-08-25,,Back,Barbell Shrug,4,48,7920.0,231
+166,2016-08-25,,Shoulders,Hammer Strength Shoulder Press,6,48,6420.0,189
+166,2016-08-25,,Shoulders,Overhead Press,7,46,5170.0,164
+167,2016-08-27,,Back,Dumbbell Hammer Curl,3,30,1200.0,53
+167,2016-08-27,,Chest,Flat Barbell Bench Press,9,38,7380.0,250
+168,2016-08-30,,Shoulders,Overhead Press,7,39,4295.0,164
+168,2016-08-30,,Back,Pull Up,5,34,34.0,1
+169,2016-09-01,,Legs,Barbell Calf Raise,5,100,21500.0,358
+169,2016-09-01,,Legs,Barbell Squat,9,46,10650.0,330
+170,2016-09-02,,Back,Dumbbell Hammer Curl,5,50,1700.0,53
+170,2016-09-02,,Chest,Flat Barbell Bench Press,8,41,7785.0,250
+170,2016-09-02,,Chest,Flat Dumbbell Fly,4,40,1450.0,53
+170,2016-09-02,,Back,Seated Incline Dumbbell Curl,4,40,850.0,33
+171,2016-09-05,,Shoulders,Overhead Press,6,46,5250.0,164
+171,2016-09-05,,Back,Pull Up,5,34,34.0,1
+172,2016-09-07,,Legs,Barbell Calf Raise,5,100,22500.0,375
+172,2016-09-07,,Legs,Barbell Squat,10,47,11055.0,336
+172,2016-09-07,,Abs,Hanging Leg Raise,4,40,40.0,1
+172,2016-09-07,,Abs,Oblique Curls,4,48,2640.0,77
+173,2016-09-10,,Back,Dumbbell Hammer Curl,5,50,1900.0,53
+173,2016-09-10,,Chest,Flat Barbell Bench Press,12,43,8060.0,256
+173,2016-09-10,,Chest,Flat Dumbbell Fly,4,40,1500.0,53
+173,2016-09-10,,Back,Seated Incline Dumbbell Curl,4,40,850.0,33
+174,2016-09-12,,Back,Dumbbell Row,3,30,1350.0,60
+174,2016-09-12,,Shoulders,Overhead Press,7,41,4725.0,171
+174,2016-09-12,,Back,Pull Up,5,40,40.0,1
+174,2016-09-12,,Shoulders,Standing Rear Delt Dumbbell Raise,3,30,300.0,13
+175,2016-09-15,,Legs,Barbell Calf Raise,5,100,23000.0,383
+175,2016-09-15,,Legs,Barbell Squat,9,41,10230.0,336
+175,2016-09-15,,Abs,Hanging Leg Raise,4,48,48.0,1
+175,2016-09-15,,Abs,Oblique Curls,4,48,2880.0,84
+176,2016-09-19,,Back,Dumbbell Row,3,30,1500.0,66
+176,2016-09-19,,Shoulders,Overhead Press,7,41,4805.0,171
+176,2016-09-19,,Back,Pull Up,5,37,37.0,1
+176,2016-09-19,,Shoulders,Standing Rear Delt Dumbbell Raise,3,30,450.0,20
+177,2016-09-20,,Legs,Barbell Calf Raise,5,100,23500.0,391
+177,2016-09-20,,Legs,Barbell Squat,9,41,10335.0,342
+177,2016-09-20,,Abs,Hanging Leg Raise,4,51,51.0,1
+177,2016-09-20,,Abs,Oblique Curls,4,48,3120.0,91
+178,2016-09-26,,Back,Dumbbell Row,3,30,1650.0,73
+178,2016-09-26,,Shoulders,Overhead Press,7,41,4885.0,171
+178,2016-09-26,,Back,Pull Up,5,42,42.0,1
+178,2016-09-26,,Shoulders,Standing Rear Delt Dumbbell Raise,3,30,450.0,20
+179,2016-09-30,,Legs,Barbell Squat,10,42,10270.0,348
+179,2016-09-30,,Abs,Oblique Curls,5,60,4200.0,98
+179,2016-09-30,,Legs,One-Legged Dumbbell Deadlift,3,30,700.0,33
+179,2016-09-30,,Abs,Weighted Sit-ups,3,30,950.0,46
+180,2016-10-01,,Back,Dumbbell Hammer Curl,4,15,720.0,58
+180,2016-10-01,,Forearms,Forearm Curls,3,60,2400.0,66
+181,2016-10-03,,Abs,Undefined Ab Workout,1,1,1.0,1
+182,2016-10-06,,Legs,Barbell Squat,4,24,4050.0,259
+182,2016-10-06,,Abs,Oblique Curls,5,60,4500.0,105
+182,2016-10-06,,Abs,Undefined Ab Workout,1,1,1.0,1
+183,2016-10-08,,Abs,Undefined Ab Workout,1,1,1.0,1
+184,2016-10-17,,Back,Pull Up,3,20,20.0,1
+184,2016-10-17,,Shoulders,Standing Rear Delt Dumbbell Raise,3,30,600.0,26
+184,2016-10-17,,Abs,Undefined Ab Workout,1,1,1.0,1
+185,2016-10-21,,Legs,Barbell Squat,8,37,8525.0,285
+185,2016-10-21,,Abs,Undefined Ab Workout,1,1,1.0,1
+186,2016-10-22,,Back,Dumbbell Hammer Curl,5,25,1250.0,58
+186,2016-10-22,,Chest,Flat Barbell Bench Press,7,38,6280.0,215
+186,2016-10-22,,Abs,Undefined Ab Workout,1,1,1.0,1
+187,2016-10-24,,Back,Pull Up,3,25,25.0,1
+187,2016-10-24,,Shoulders,Standing Rear Delt Dumbbell Raise,3,30,750.0,33
+187,2016-10-24,,Abs,Undefined Ab Workout,1,1,1.0,1
+188,2016-10-28,,Legs,Barbell Squat,7,30,6340.0,285
+188,2016-10-28,,Abs,Oblique Curls,3,36,2700.0,105
+188,2016-10-28,,Abs,Undefined Ab Workout,1,1,1.0,1
+189,2016-10-29,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+189,2016-10-29,,Abs,Undefined Ab Workout,1,1,1.0,1
+190,2016-10-31,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+190,2016-10-31,,Back,Dumbbell Row,3,30,1600.0,73
+190,2016-10-31,,Back,Pull Up,3,27,27.0,1
+190,2016-10-31,,Abs,Undefined Ab Workout,1,1,1.0,1
+191,2016-11-04,,Abs,Undefined Ab Workout,1,1,1.0,1
+192,2016-11-05,,Legs,Barbell Squat,4,18,3340.0,262
+192,2016-11-05,,Abs,Undefined Ab Workout,1,1,1.0,1
+193,2016-11-11,,Back,Pull Up,3,27,27.0,1
+193,2016-11-11,,Abs,Undefined Ab Workout,1,1,1.0,1
+194,2016-11-14,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+194,2016-11-14,,Abs,Undefined Ab Workout,1,1,1.0,1
+195,2016-11-18,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+195,2016-11-18,,Abs,Undefined Ab Workout,1,1,1.0,1
+196,2016-11-21,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+197,2016-11-28,,Back,Lat Pulldown,3,30,1800.0,93
+197,2016-11-28,,Back,Pull Up,3,24,24.0,1
+197,2016-11-28,,Chest,Push Up,3,45,45.0,1
+197,2016-11-28,,Back,Single Arm Lat Cable Pulldown,3,30,1050.0,46
+197,2016-11-28,,Abs,Undefined Ab Workout,1,1,1.0,1
+198,2016-12-03,,Back,Seated Cable Row Squeezes,3,30,1500.0,66
+198,2016-12-03,,Back,Single Arm Cable Row,3,30,900.0,40
+198,2016-12-03,,Back,Standing Cable Row,3,30,1350.0,66
+198,2016-12-03,,Abs,Undefined Ab Workout,1,1,1.0,1
+199,2016-12-06,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+199,2016-12-06,,Back,Straight Shoulder Retractiom On Swiss Ball,3,30,90.0,4
+199,2016-12-06,,Back,T Shoulder Retraction On Swiss Ball,3,30,90.0,4
+199,2016-12-06,,Abs,Undefined Ab Workout,1,1,1.0,1
+200,2016-12-08,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+200,2016-12-08,,Back,Lat Pulldown,3,30,2300.0,106
+200,2016-12-08,,Back,Pull Up,3,26,26.0,1
+200,2016-12-08,,Chest,Push Up,3,50,50.0,1
+200,2016-12-08,,Back,Single Arm Lat Cable Pulldown,3,30,1050.0,46
+200,2016-12-08,,Abs,Undefined Ab Workout,1,1,1.0,1
+201,2016-12-11,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+201,2016-12-11,,Back,Seated Cable Row Squeezes,3,30,1800.0,80
+201,2016-12-11,,Back,Single Arm Cable Row,3,30,1050.0,46
+201,2016-12-11,,Back,Standing Cable Row,3,30,1500.0,66
+201,2016-12-11,,Abs,Undefined Ab Workout,1,1,1.0,1
+202,2016-12-13,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+202,2016-12-13,,Back,Straight Shoulder Retractiom On Swiss Ball,3,30,90.0,4
+202,2016-12-13,,Back,T Shoulder Retraction On Swiss Ball,3,30,90.0,4
+202,2016-12-13,,Abs,Undefined Ab Workout,1,1,1.0,1
+203,2016-12-17,,Back,Lat Pulldown,3,30,2400.0,106
+203,2016-12-17,,Back,Pull Up,3,28,28.0,1
+203,2016-12-17,,Chest,Push Up,3,55,55.0,1
+203,2016-12-17,,Back,Single Arm Lat Cable Pulldown,3,30,1050.0,46
+203,2016-12-17,,Abs,Undefined Ab Workout,1,1,1.0,1
+204,2016-12-28,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+204,2016-12-28,,Back,Straight Shoulder Retractiom On Swiss Ball,3,30,150.0,6
+204,2016-12-28,,Back,T Shoulder Retraction On Swiss Ball,3,30,150.0,6
+205,2016-12-30,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+205,2016-12-30,,Back,Seated Cable Row Squeezes,3,30,2025.0,90
+205,2016-12-30,,Back,Single Arm Cable Row,3,30,1125.0,50
+205,2016-12-30,,Back,Standing Cable Row,3,30,1725.0,76
+206,2017-01-02,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+206,2017-01-02,,Back,Lat Pulldown,3,30,2550.0,113
+206,2017-01-02,,Back,Pull Up,3,27,27.0,1
+206,2017-01-02,,Chest,Push Up,3,60,60.0,1
+206,2017-01-02,,Back,Single Arm Lat Cable Pulldown,3,30,1125.0,50
+207,2017-01-04,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+207,2017-01-04,,Back,Straight Shoulder Retractiom On Swiss Ball,3,30,180.0,8
+207,2017-01-04,,Back,T Shoulder Retraction On Swiss Ball,3,30,170.0,8
+208,2017-01-23,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,800.0,44
+208,2017-01-23,,Back,Bodyweight Mid Row,1,20,20.0,1
+208,2017-01-23,,Back,Dumbbell Row,3,24,1440.0,76
+208,2017-01-23,,Chest,Flat Dumbbell Bench Press,3,24,1400.0,82
+208,2017-01-23,,Chest,Paramount Standing Machine Fly,3,24,1120.0,63
+208,2017-01-23,,Chest,TRX Suspended Push-ups,1,10,10.0,1
+209,2017-01-25,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,360.0,22
+209,2017-01-25,,Back,Dumbbell Hammer Curl,5,25,775.0,40
+209,2017-01-25,,Shoulders,Lateral to Front Dumbbell Raise,3,24,300.0,15
+209,2017-01-25,,Back,Pull Up,5,25,300.0,17
+209,2017-01-25,,Forearms,Reverse Cable Curl,3,24,880.0,50
+210,2017-01-28,,Legs,Dumbbell Lunges,3,24,1320.0,76
+210,2017-01-28,,Abs,Oblique Curls,3,32,2400.0,105
+210,2017-01-28,,Legs,One-Legged Dumbbell Deadlift,3,24,1200.0,63
+210,2017-01-28,,Abs,Pallof Press with Rotation,3,24,600.0,31
+211,2017-01-30,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,960.0,50
+211,2017-01-30,,Back,Bodyweight Mid Row,1,22,22.0,1
+211,2017-01-30,,Back,Dumbbell Row,3,24,1560.0,82
+211,2017-01-30,,Chest,Flat Dumbbell Bench Press,5,36,2200.0,82
+211,2017-01-30,,Chest,Paramount Standing Machine Fly,3,24,1280.0,76
+212,2017-02-02,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,420.0,22
+212,2017-02-02,,Back,Dumbbell Hammer Curl,5,25,825.0,40
+212,2017-02-02,,Shoulders,Lateral to Front Dumbbell Raise,3,24,360.0,19
+212,2017-02-02,,Back,Pull Up,5,25,375.0,17
+213,2017-02-04,,Legs,Dumbbell Lunges,3,24,1440.0,76
+213,2017-02-04,,Abs,Oblique Curls,3,27,2025.0,97
+213,2017-02-04,,Legs,One-Legged Dumbbell Deadlift,3,24,1320.0,69
+213,2017-02-04,,Abs,Pallof Press with Rotation,3,24,720.0,38
+214,2017-02-06,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,1080.0,57
+214,2017-02-06,,Back,Bodyweight Mid Row,1,10,10.0,1
+214,2017-02-06,,Back,Dumbbell Row,3,24,1680.0,88
+214,2017-02-06,,Chest,Flat Dumbbell Bench Press,5,34,2240.0,88
+214,2017-02-06,,Chest,Paramount Standing Machine Fly,3,30,1500.0,66
+215,2017-02-09,,Shoulders,Bent over Standing Dumbbell Flyes,5,40,800.0,25
+215,2017-02-09,,Back,Dumbbell Hammer Curl,5,25,875.0,40
+215,2017-02-09,,Back,Lat Pulldown,3,30,3900.0,173
+215,2017-02-09,,Shoulders,Lateral to Front Dumbbell Raise,5,40,700.0,22
+215,2017-02-09,,Back,Pull Up,5,25,500.0,23
+215,2017-02-09,,Forearms,Reverse Cable Curl,3,24,960.0,50
+216,2017-02-11,,Legs,Dumbbell Lunges,3,24,1560.0,82
+216,2017-02-11,,Abs,Oblique Curls,3,30,2250.0,100
+216,2017-02-11,,Legs,One-Legged Dumbbell Deadlift,3,24,1440.0,76
+216,2017-02-11,,Abs,Pallof Press with Rotation,3,24,840.0,44
+217,2017-02-14,,Back,Bent-over Two-Dumbbell Row with Palms in,3,36,900.0,35
+217,2017-02-14,,Back,Dumbbell Row,3,36,1620.0,63
+217,2017-02-14,,Chest,Flat Dumbbell Bench Press,3,36,1620.0,63
+217,2017-02-14,,Chest,Paramount Standing Machine Fly,3,36,1080.0,42
+218,2017-02-20,,Shoulders,Bent over Standing Dumbbell Flyes,5,60,900.0,21
+218,2017-02-20,,Back,Dumbbell Hammer Curl,5,40,800.0,25
+218,2017-02-20,,Back,Lat Pulldown,3,36,2880.0,112
+218,2017-02-20,,Shoulders,Lateral to Front Dumbbell Raise,5,60,600.0,14
+218,2017-02-20,,Back,Pull Up,5,40,264.0,19
+218,2017-02-20,,Forearms,Reverse Cable Curl,3,36,900.0,35
+219,2017-02-25,,Legs,Dumbbell Lunges,3,24,1560.0,82
+219,2017-02-25,,Abs,Oblique Curls,3,32,2400.0,105
+219,2017-02-25,,Legs,One-Legged Dumbbell Deadlift,1,8,480.0,76
+220,2017-03-01,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,1200.0,63
+220,2017-03-01,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+220,2017-03-01,,Back,Dumbbell Row,3,24,1800.0,95
+220,2017-03-01,,Chest,Flat Dumbbell Bench Press,4,29,2125.0,95
+220,2017-03-01,,Chest,Paramount Standing Machine Fly,3,30,1400.0,66
+221,2017-03-07,,Shoulders,Bent over Standing Dumbbell Flyes,5,40,800.0,25
+221,2017-03-07,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+221,2017-03-07,,Back,Dumbbell Hammer Curl,5,25,875.0,40
+221,2017-03-07,,Back,Lat Pulldown,3,30,3900.0,173
+221,2017-03-07,,Shoulders,Lateral to Front Dumbbell Raise,5,40,700.0,22
+221,2017-03-07,,Back,Pull Up,5,25,500.0,23
+221,2017-03-07,,Forearms,Reverse Cable Curl,3,24,960.0,50
+222,2017-03-13,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+222,2017-03-13,,Legs,Dumbbell Lunges,4,32,1920.0,82
+222,2017-03-13,,Abs,Oblique Curls,3,36,2700.0,105
+222,2017-03-13,,Legs,One-Legged Dumbbell Deadlift,3,24,1320.0,82
+222,2017-03-13,,Abs,Pallof Press with Rotation,3,24,880.0,50
+223,2017-03-15,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,1080.0,57
+223,2017-03-15,,Back,Bodyweight Mid Row,1,25,25.0,1
+223,2017-03-15,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+223,2017-03-15,,Back,Dumbbell Row,3,24,1800.0,95
+223,2017-03-15,,Chest,Flat Dumbbell Bench Press,3,24,1720.0,95
+224,2017-03-17,,Shoulders,Bent over Standing Dumbbell Flyes,5,40,1000.0,31
+224,2017-03-17,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+224,2017-03-17,,Back,Dumbbell Hammer Curl,5,25,1000.0,46
+224,2017-03-17,,Back,Lat Pulldown,3,24,3360.0,177
+224,2017-03-17,,Shoulders,Lateral to Front Dumbbell Raise,6,48,900.0,25
+224,2017-03-17,,Back,Pull Up,6,35,510.0,23
+224,2017-03-17,,Forearms,Reverse Cable Curl,3,24,680.0,38
+225,2017-03-20,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+225,2017-03-20,,Legs,Dumbbell Lunges,5,36,2280.0,88
+225,2017-03-20,,Abs,Oblique Curls,3,24,1800.0,95
+226,2017-03-22,,Back,Bent-over Two-Dumbbell Row with Palms in,3,24,1200.0,63
+226,2017-03-22,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+226,2017-03-22,,Back,Dumbbell Row,5,40,2920.0,95
+226,2017-03-22,,Chest,Flat Dumbbell Bench Press,5,40,2920.0,95
+226,2017-03-22,,Chest,Paramount Standing Machine Fly,3,24,960.0,50
+227,2017-03-24,,Shoulders,Bent over Standing Dumbbell Flyes,5,40,1000.0,31
+227,2017-03-24,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+227,2017-03-24,,Back,Dumbbell Hammer Curl,5,25,1025.0,52
+227,2017-03-24,,Back,Lat Pulldown,3,24,3600.0,190
+227,2017-03-24,,Shoulders,Lateral to Front Dumbbell Raise,6,58,1370.0,33
+227,2017-03-24,,Back,Pull Up,6,35,635.0,29
+227,2017-03-24,,Forearms,Reverse Cable Curl,3,24,720.0,38
+228,2017-04-03,,Abs,Barbell Press Sit-up,3,24,920.0,57
+228,2017-04-03,,Legs,Barbell Squat,7,35,7225.0,262
+228,2017-04-03,,Legs,Dumbbell Calf Raise,3,60,13500.0,375
+228,2017-04-03,,Abs,Standing Cable Wood Chop,5,40,1400.0,44
+229,2017-04-07,,Chest,Flat Barbell Bench Press,7,38,6480.0,215
+229,2017-04-07,,Back,Standing Cable Row,5,40,2640.0,95
+230,2017-04-09,,Back,Chin Up,5,25,25.0,1
+230,2017-04-09,,Back,Decline Dumbbell Curls,6,25,1040.0,52
+230,2017-04-09,,Shoulders,Incline Reverse Dumbbell Flyes,5,40,1000.0,31
+230,2017-04-09,,Shoulders,Lateral Cable Raise,5,40,400.0,12
+231,2017-04-14,,Chest,Flat Barbell Bench Press,7,38,6605.0,221
+231,2017-04-14,,Chest,Low Cable Cross-over,3,24,960.0,50
+231,2017-04-14,,Back,Standing Cable Row,5,37,2960.0,101
+232,2017-04-19,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,600.0,31
+232,2017-04-19,,Back,Chin Up,6,30,680.0,35
+232,2017-04-19,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+232,2017-04-19,,Back,Decline Dumbbell Curls,3,15,525.0,40
+232,2017-04-19,,Shoulders,Lateral to Front Dumbbell Raise,5,50,1000.0,26
+233,2017-04-22,,Chest,Flat Barbell Bench Press,7,30,5630.0,227
+234,2017-04-29,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,680.0,38
+234,2017-04-29,,Back,Chin Up,7,35,980.0,40
+234,2017-04-29,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+234,2017-04-29,,Back,Lat Pulldown Pronated,3,24,3360.0,177
+234,2017-04-29,,Shoulders,Lateral to Front Dumbbell Raise,6,50,1200.0,31
+235,2017-05-01,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+235,2017-05-01,,Chest,Flat Barbell Bench Press,8,42,7595.0,233
+235,2017-05-01,,Chest,Low Cable Cross-over,5,40,2000.0,63
+235,2017-05-01,,Back,Seated Cable Row,5,40,5600.0,177
+235,2017-05-01,,Back,Seated Cable Row Squeezes,5,40,4400.0,139
+236,2017-05-07,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+236,2017-05-07,,Abs,Undefined Ab Workout,1,1,1.0,1
+237,2017-05-09,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,720.0,38
+237,2017-05-09,,Back,Chin Up,7,35,1105.0,46
+237,2017-05-09,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+237,2017-05-09,,Back,Lat Pulldown Pronated,4,23,3430.0,190
+237,2017-05-09,,Shoulders,Lateral to Front Dumbbell Raise,6,60,1200.0,26
+238,2017-05-13,,Chest,Flat Barbell Bench Press,7,37,6695.0,239
+238,2017-05-13,,Chest,Low Cable Cross-over,5,50,2500.0,66
+238,2017-05-13,,Back,Pull Up,1,20,20.0,1
+238,2017-05-13,,Back,Seated Cable Row,6,48,6880.0,190
+238,2017-05-13,,Back,Seated Cable Row Squeezes,5,42,5040.0,160
+239,2017-05-18,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,720.0,38
+239,2017-05-18,,Back,Chin Up,8,35,1230.0,52
+239,2017-05-18,,Back,Lat Pulldown Pronated,3,24,3600.0,190
+239,2017-05-18,,Shoulders,Lateral to Front Dumbbell Raise,6,70,1400.0,28
+240,2017-05-20,,Chest,Flat Barbell Bench Press,7,36,6490.0,239
+240,2017-05-20,,Back,Seated Cable Row,5,40,6000.0,202
+241,2017-05-31,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+241,2017-05-31,,Chest,Flat Barbell Bench Press,8,41,7410.0,233
+241,2017-05-31,,Chest,Low Cable Cross-over,5,46,2530.0,73
+241,2017-05-31,,Back,T-Bar Row,5,40,2800.0,88
+242,2017-06-02,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,840.0,44
+242,2017-06-02,,Back,Chin Up,7,35,1230.0,52
+242,2017-06-02,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+242,2017-06-02,,Back,Lat Pulldown Pronated,3,24,3840.0,202
+242,2017-06-02,,Shoulders,Lateral to Front Dumbbell Raise,6,70,1400.0,28
+243,2017-06-06,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+243,2017-06-06,,Abs,Undefined Ab Workout,1,1,1.0,1
+244,2017-06-15,,Legs,Seated Calf Raise Machine,5,100,9000.0,150
+245,2017-06-16,,Cooldown,Cooldown And Stretch,2,2,1.0,1
+246,2017-06-17,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+246,2017-06-17,,Chest,Flat Barbell Bench Press,9,35,6345.0,240
+246,2017-06-17,,Chest,Low Cable Cross-over,5,46,2530.0,73
+246,2017-06-17,,Back,T-Bar Row,4,32,2960.0,126
+247,2017-06-19,,Shoulders,Bent over Standing Dumbbell Flyes,3,24,960.0,50
+247,2017-06-19,,Back,Chin Up,7,35,1280.0,58
+247,2017-06-19,,Back,Lat Pulldown Pronated,3,24,3900.0,205
+247,2017-06-19,,Shoulders,Lateral to Front Dumbbell Raise,6,60,1450.0,33
+248,2017-06-28,,Chest,Flat Barbell Bench Press,7,36,6560.0,245
+248,2017-06-28,,Back,T-Bar Row,4,32,2880.0,114
+249,2017-06-30,,Back,Chin Up,7,35,1380.0,58
+249,2017-06-30,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+249,2017-06-30,,Back,Lat Pulldown Pronated,3,24,4164.0,219
+249,2017-06-30,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1620.0,35
+249,2017-06-30,,Abs,Undefined Ab Workout,1,1,1.0,1
+250,2017-07-07,,Chest,Flat Barbell Bench Press,8,40,7430.0,245
+250,2017-07-07,,Back,T-Bar Row,5,40,3800.0,120
+251,2017-07-10,,Back,Chin Up,7,35,1380.0,58
+251,2017-07-10,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1740.0,35
+251,2017-07-10,,Abs,Undefined Ab Workout,1,1,1.0,1
+252,2017-07-17,,Chest,Flat Barbell Bench Press,8,40,7520.0,250
+252,2017-07-17,,Back,T-Bar Row,5,40,4000.0,126
+253,2017-07-24,,Back,Chin Up,8,37,1575.0,64
+253,2017-07-24,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+253,2017-07-24,,Back,Lat Pulldown Pronated,3,24,4320.0,228
+253,2017-07-24,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1740.0,35
+254,2017-07-26,,Shoulders,Rear Delt Machine Fly,5,60,7140.0,168
+254,2017-07-26,,Chest,Seated Machine Fly,5,60,9480.0,224
+255,2017-08-01,,Forearms,Forearm Roll-ups,3,15,150.0,11
+255,2017-08-01,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1560.0,35
+255,2017-08-01,,Back,Pull Up,7,35,1255.0,52
+256,2017-08-04,,Chest,Flat Barbell Bench Press,9,40,7665.0,245
+256,2017-08-04,,Back,T-Bar Row,5,40,4200.0,133
+257,2017-08-07,,Forearms,Forearm Roll-ups,3,15,162.5,14
+257,2017-08-07,,Shoulders,Lateral to Front Dumbbell Raise,7,84,1920.0,35
+257,2017-08-07,,Back,Pull Up,7,34,1355.0,58
+258,2017-08-09,,Chest,Flat Barbell Bench Press,10,37,7220.0,250
+258,2017-08-09,,Back,T-Bar Row,5,40,4400.0,139
+259,2017-08-14,,Shoulders,Lateral to Front Dumbbell Raise,7,84,1920.0,35
+259,2017-08-14,,Back,Pull Up,8,36,1580.0,64
+260,2017-08-17,,Chest,Flat Barbell Bench Press,5,20,3490.0,250
+260,2017-08-17,,Shoulders,Rear Delt Machine Fly,6,60,7300.0,175
+260,2017-08-17,,Chest,Seated Machine Fly,5,60,10200.0,245
+261,2017-09-11,,Chest,Flat Barbell Bench Press,8,42,6770.0,215
+261,2017-09-11,,Back,Seated Cable Row,6,50,6940.0,190
+262,2017-09-13,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1380.0,28
+262,2017-09-13,,Back,Pull Up,7,35,1255.0,52
+263,2017-09-14,,Legs,Bosu Ball Squats,5,40,40.0,1
+263,2017-09-14,,Legs,One-Legged Dumbbell Deadlift,5,40,1600.0,50
+264,2017-09-18,,Chest,Flat Barbell Bench Press,7,38,6530.0,215
+264,2017-09-18,,Back,Seated Cable Row,6,50,7180.0,200
+265,2017-09-20,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+265,2017-09-20,,Shoulders,Lateral to Front Dumbbell Raise,6,72,1380.0,28
+265,2017-09-20,,Back,Pull Up,7,35,1380.0,58
+266,2017-09-25,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+266,2017-09-25,,Abs,Undefined Ab Workout,1,1,1.0,1
+267,2017-09-27,,Legs,Bosu Ball Squats,6,48,408.0,12
+267,2017-09-27,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+267,2017-09-27,,Legs,One-Legged Dumbbell Deadlift,6,48,2040.0,57
+268,2017-09-28,,Shoulders,Incline Dumbbell Press Yoga Ball,6,48,1400.0,38
+268,2017-09-28,,Back,Pull Up,9,35,1380.0,58
+269,2017-09-29,,Chest,Decline Dumbbell Press Yoga Ball,5,40,1280.0,44
+269,2017-09-29,,Chest,Flat Barbell Bench Press,7,38,6630.0,221
+269,2017-09-29,,Back,Seated Cable Row,6,52,7400.0,200
+270,2017-10-02,,Abs,Undefined Ab Workout,1,1,1.0,1
+271,2017-10-04,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,2000.0,46
+271,2017-10-04,,Back,Pull Up,7,30,1230.0,64
+272,2017-10-05,,Legs,Bosu Ball Squats,5,40,328.0,12
+272,2017-10-05,,Legs,One-Legged Dumbbell Deadlift,5,40,1800.0,63
+273,2017-10-06,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+273,2017-10-06,,Chest,Flat Barbell Bench Press,7,35,6195.0,227
+273,2017-10-06,,Back,Seated Cable Row,6,38,5700.0,198
+274,2017-10-09,,Abs,Undefined Ab Workout,1,1,1.0,1
+275,2017-10-11,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,2250.0,53
+275,2017-10-11,,Back,Pull Up,7,35,1505.0,64
+276,2017-10-12,,Legs,Bosu Ball Squats,6,50,610.0,19
+276,2017-10-12,,Legs,One-Legged Dumbbell Deadlift,6,48,2240.0,63
+277,2017-10-13,,Chest,Flat Barbell Bench Press,8,41,7460.0,233
+277,2017-10-13,,Back,Seated Cable Row,6,50,7900.0,215
+278,2017-10-16,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+278,2017-10-16,,Abs,Undefined Ab Workout,1,1,1.0,1
+279,2017-10-18,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+279,2017-10-18,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,2550.0,60
+279,2017-10-18,,Back,Pull Up,7,35,1505.0,64
+280,2017-10-19,,Back,Deadlift,6,33,6705.0,262
+280,2017-10-19,,Legs,One-Legged Dumbbell Deadlift,6,48,2440.0,69
+281,2017-10-20,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+281,2017-10-20,,Chest,Flat Barbell Bench Press,8,35,6665.0,239
+281,2017-10-20,,Back,Lat Pulldown Pronated,7,35,6750.0,245
+282,2017-10-25,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,2800.0,66
+282,2017-10-25,,Back,Pull Up,6,28,1120.0,64
+283,2017-10-26,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+283,2017-10-26,,Chest,Flat Barbell Bench Press,8,30,5815.0,245
+283,2017-10-26,,Back,Lat Pulldown Pronated,8,38,8180.0,268
+284,2017-10-30,,Abs,Undefined Ab Workout,1,1,1.0,1
+285,2017-11-03,,Chest,Flat Barbell Bench Press,5,15,2625.0,225
+285,2017-11-03,,Back,Pull Up,5,23,880.0,70
+286,2017-11-06,,Abs,Undefined Ab Workout,1,1,1.0,1
+287,2017-11-08,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+287,2017-11-08,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,3000.0,73
+287,2017-11-08,,Back,Pull Up,7,34,1525.0,70
+288,2017-11-10,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+288,2017-11-10,,Chest,Flat Barbell Bench Press,6,27,4965.0,239
+288,2017-11-10,,Back,Lat Pulldown Pronated,6,35,7450.0,291
+289,2017-11-13,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+289,2017-11-13,,Abs,Undefined Ab Workout,1,1,1.0,1
+290,2017-11-16,,Shoulders,Incline Dumbbell Press Yoga Ball,4,40,2000.0,73
+290,2017-11-16,,Back,Pull Up,4,20,730.0,70
+291,2017-11-17,,Chest,Flat Barbell Bench Press,6,27,4965.0,239
+291,2017-11-17,,Back,Lat Pulldown Pronated,6,35,7450.0,291
+292,2017-11-29,,Chest,Flat Barbell Bench Press,3,18,2830.0,215
+292,2017-11-29,,Back,Lat Pulldown Pronated,3,15,2550.0,198
+293,2017-12-08,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+293,2017-12-08,,Chest,Flat Barbell Bench Press,8,41,7335.0,227
+293,2017-12-08,,Back,Lat Pulldown Pronated,7,50,9400.0,240
+294,2017-12-11,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+295,2017-12-19,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+295,2017-12-19,,Chest,Flat Barbell Bench Press,4,23,3830.0,233
+295,2017-12-19,,Back,Lat Pulldown Pronated,7,62,11620.0,253
+296,2017-12-20,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+296,2017-12-20,,Chest,Flat Barbell Bench Press,6,28,5055.0,233
+296,2017-12-20,,Back,Lat Pulldown Pronated,6,58,10860.0,253
+297,2017-12-21,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+297,2017-12-21,,Abs,Undefined Ab Workout,1,1,1.0,1
+298,2017-12-27,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+298,2017-12-27,,Chest,Flat Barbell Bench Press,6,28,5055.0,233
+298,2017-12-27,,Back,Lat Pulldown Pronated,5,31,6030.0,245
+299,2017-12-28,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+299,2017-12-28,,Shoulders,Incline Dumbbell Press Yoga Ball,6,60,3100.0,73
+299,2017-12-28,,Back,Pull Up,6,65,65.0,1
+300,2018-01-01,,Legs,Barbell Squat,4,40,6000.0,206
+300,2018-01-01,,Legs,Dumbbell Lunges,3,30,1350.0,60
+300,2018-01-01,,Legs,Leg Press,3,30,7150.0,326
+301,2018-01-03,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+301,2018-01-03,,Chest,Flat Barbell Bench Press,6,45,7025.0,213
+301,2018-01-03,,Chest,Incline Dumbbell Bench Press,4,48,1680.0,49
+301,2018-01-03,,Chest,Incline Hammer Strength Chest Press,1,12,1080.0,126
+301,2018-01-03,,Chest,Pec Dec,1,15,1950.0,195
+302,2018-01-04,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+302,2018-01-04,,Back,Dumbbell Row,4,48,2400.0,70
+302,2018-01-04,,Back,Hammer Strength Row,4,40,4600.0,173
+302,2018-01-04,,Back,Lat Pulldown,1,15,1200.0,120
+302,2018-01-04,,Back,Pull Up,6,49,840.0,33
+303,2018-01-08,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+303,2018-01-08,,Shoulders,Dumbbell Shoulder Press,3,45,1125.0,45
+303,2018-01-08,,Chest,Flat Barbell Bench Press,5,45,7275.0,220
+303,2018-01-08,,Shoulders,Front Dumbbell Raise,3,45,450.0,15
+303,2018-01-08,,Chest,Incline Dumbbell Bench Press,4,48,1920.0,56
+303,2018-01-08,,Shoulders,Lateral Dumbbell Raise,3,45,450.0,15
+303,2018-01-08,,Chest,Pec Dec,3,36,4980.0,196
+304,2018-01-11,,Back,Dumbbell Row,2,24,1320.0,77
+304,2018-01-11,,Back,Pull Up,7,50,1110.0,40
+305,2018-01-19,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+305,2018-01-19,,Shoulders,Dumbbell Shoulder Press,3,45,1125.0,45
+305,2018-01-19,,Chest,Flat Barbell Bench Press,5,50,7950.0,220
+305,2018-01-19,,Shoulders,Front Dumbbell Raise,3,45,450.0,15
+305,2018-01-19,,Chest,Incline Dumbbell Bench Press,4,48,1920.0,56
+305,2018-01-19,,Shoulders,Lateral Dumbbell Raise,3,45,450.0,15
+305,2018-01-19,,Chest,Pec Dec,3,32,4440.0,203
+306,2018-01-22,,Legs,Barbell Squat,4,40,6000.0,206
+306,2018-01-22,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+306,2018-01-22,,Legs,Dumbbell Lunges,3,30,1350.0,60
+306,2018-01-22,,Legs,Leg Press,3,30,7950.0,353
+307,2018-01-23,,Back,Dumbbell Row,3,24,1320.0,69
+307,2018-01-23,,Back,Pull Up,5,28,460.0,29
+308,2018-01-24,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+308,2018-01-24,,Abs,Undefined Ab Workout,1,1,1.0,1
+309,2018-01-26,,Chest,Flat Barbell Bench Press,5,29,4675.0,204
+309,2018-01-26,,Chest,Incline Dumbbell Bench Press,4,48,2160.0,63
+309,2018-01-26,,Chest,Pec Dec,3,16,1880.0,152
+310,2018-01-29,,Legs,Barbell Plie Squat,3,24,3240.0,171
+310,2018-01-29,,Back,Deadlift,5,28,6080.0,291
+310,2018-01-29,,Legs,Stiff-Legged Dumbbell Deadlift,4,32,1600.0,63
+311,2018-01-30,,Chest,Close Grip Dip,3,24,24.0,1
+311,2018-01-30,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+311,2018-01-30,,Back,Dumbbell Hammer Curl,3,24,480.0,25
+311,2018-01-30,,Back,Dumbbell Row,4,32,1760.0,69
+311,2018-01-30,,Back,Pull Up,5,28,502.5,34
+312,2018-02-01,,Chest,Flat Barbell Bench Press,7,38,6230.0,204
+312,2018-02-01,,Chest,Incline Dumbbell Bench Press,4,48,2220.0,70
+312,2018-02-01,,Chest,Pec Dec,3,24,3000.0,158
+313,2018-02-02,,Legs,Barbell Squat,4,40,6300.0,220
+313,2018-02-02,,Legs,Leg Press,3,30,7950.0,353
+314,2018-02-05,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+314,2018-02-05,,Back,Dumbbell Row,4,32,1920.0,76
+314,2018-02-05,,Back,Lat Pulldown,1,4,480.0,136
+314,2018-02-05,,Back,Pull Up,6,32,575.0,35
+315,2018-02-09,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+315,2018-02-09,,Chest,Flat Barbell Bench Press,8,38,6460.0,210
+315,2018-02-09,,Chest,Pec Dec,1,8,1040.0,164
+316,2018-02-13,,Legs,Barbell Squat,4,40,6300.0,220
+316,2018-02-13,,Legs,Dumbbell Lunges,3,30,1350.0,60
+316,2018-02-13,,Legs,Leg Press,3,30,7950.0,353
+317,2018-02-19,,Back,Cable Curl,3,24,1360.0,76
+317,2018-02-19,,Chest,Close Grip Dip,3,24,24.0,1
+317,2018-02-19,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+317,2018-02-19,,Back,Dumbbell Hammer Curl,3,24,520.0,31
+317,2018-02-19,,Back,Dumbbell Row,4,32,1920.0,76
+317,2018-02-19,,Back,Hammer Strength Row,3,24,3120.0,164
+317,2018-02-19,,Back,Lat Pulldown,3,24,2880.0,152
+317,2018-02-19,,Back,Pull Up,6,34,632.5,35
+317,2018-02-19,,Chest,Rope Push Down,3,24,2320.0,126
+318,2018-02-20,,Chest,Flat Barbell Bench Press,8,38,6600.0,215
+318,2018-02-20,,Chest,Incline Dumbbell Bench Press,4,47,2115.0,63
+318,2018-02-20,,Chest,Pec Dec,3,18,2340.0,164
+319,2018-02-26,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+319,2018-02-26,,Back,Dumbbell Row,3,24,1560.0,82
+319,2018-02-26,,Back,Pull Up,6,35,685.0,35
+320,2018-02-27,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+320,2018-02-27,,Chest,Flat Barbell Bench Press,8,41,7130.0,221
+321,2018-02-28,,Legs,Barbell Squat,6,35,5525.0,198
+321,2018-02-28,,Legs,Dumbbell Lunges,3,30,1350.0,60
+321,2018-02-28,,Legs,Leg Press,3,30,7950.0,353
+322,2018-03-05,,Back,Pull Up,7,36,752.5,37
+323,2018-03-06,,Chest,Flat Barbell Bench Press,8,41,7205.0,227
+324,2018-03-12,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+324,2018-03-12,,Back,Pull Up,9,41,945.0,40
+325,2018-03-15,,Shoulders,Dumbbell Shoulder Press,3,45,1125.0,45
+325,2018-03-15,,Chest,Flat Barbell Bench Press,8,40,7060.0,227
+325,2018-03-15,,Shoulders,Front Dumbbell Raise,3,45,450.0,15
+325,2018-03-15,,Chest,Incline Dumbbell Bench Press,4,48,2160.0,63
+325,2018-03-15,,Chest,Incline Hammer Strength Chest Press,3,45,1350.0,135
+325,2018-03-15,,Shoulders,Lateral Dumbbell Raise,3,45,450.0,15
+325,2018-03-15,,Chest,Pec Dec,3,36,4680.0,182
+326,2018-03-19,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+326,2018-03-19,,Back,Dumbbell Row,2,16,1040.0,82
+326,2018-03-19,,Back,Pull Up,8,44,1075.0,40
+327,2018-03-20,,Chest,Flat Barbell Bench Press,8,40,7190.0,233
+328,2018-03-21,,Legs,Barbell Squat,5,30,4675.0,198
+328,2018-03-21,,Legs,Dumbbell Lunges,3,30,1350.0,60
+328,2018-03-21,,Legs,Leg Press,3,30,7950.0,353
+329,2018-03-26,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+329,2018-03-26,,Back,Dumbbell Row,3,22,1430.0,82
+329,2018-03-26,,Back,Pull Up,8,40,935.0,40
+330,2018-03-27,,Chest,Flat Barbell Bench Press,8,40,7040.0,233
+331,2018-03-30,,Legs,Barbell Squat,7,38,6230.0,204
+331,2018-03-30,,Legs,Leg Extension Machine,3,15,1950.0,151
+331,2018-03-30,,Legs,Leg Press,3,30,8550.0,380
+331,2018-03-30,,Legs,Lying Leg Curl Machine,3,25,900.0,105
+331,2018-03-30,,Legs,Seated Calf Raise Machine,3,60,5400.0,150
+332,2018-04-03,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+332,2018-04-03,,Back,Pull Up,6,51,51.0,1
+333,2018-04-04,,Chest,Flat Barbell Bench Press,7,37,6595.0,233
+334,2018-04-09,,Back,Cable Curl,3,36,2040.0,84
+334,2018-04-09,,Chest,Close Grip Dip,3,36,36.0,1
+334,2018-04-09,,Back,Dumbbell Hammer Curl,3,36,780.0,35
+334,2018-04-09,,Back,Dumbbell Row,4,31,1975.0,82
+334,2018-04-09,,Back,Hammer Strength Row,4,40,5200.0,173
+334,2018-04-09,,Back,Pull Up,9,44,841.0,40
+334,2018-04-09,,Chest,Rope Push Down,3,36,3480.0,140
+335,2018-04-10,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+335,2018-04-10,,Chest,Flat Barbell Bench Press,9,35,6105.0,226
+335,2018-04-10,,Chest,Pec Dec,4,23,3030.0,171
+336,2018-04-16,,Back,Dumbbell Row,4,29,1885.0,82
+336,2018-04-16,,Back,Pull Up,9,46,872.0,40
+337,2018-04-18,,Shoulders,Dumbbell Shoulder Press,3,45,1125.0,45
+337,2018-04-18,,Chest,Flat Barbell Bench Press,8,33,5850.0,239
+337,2018-04-18,,Shoulders,Front Dumbbell Raise,3,45,450.0,15
+337,2018-04-18,,Chest,Incline Dumbbell Bench Press,4,48,2160.0,63
+337,2018-04-18,,Chest,Incline Hammer Strength Chest Press,3,45,1350.0,135
+337,2018-04-18,,Shoulders,Lateral Dumbbell Raise,3,45,450.0,15
+337,2018-04-18,,Chest,Pec Dec,3,36,4740.0,189
+338,2018-04-19,,Legs,Barbell Squat,3,24,3720.0,221
+339,2018-04-20,,Abs,Undefined Ab Workout,1,1,1.0,1
+340,2018-04-24,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+340,2018-04-24,,Back,Dumbbell Row,4,23,1610.0,86
+340,2018-04-24,,Back,Lat Pulldown,3,21,2860.0,177
+340,2018-04-24,,Back,Pull Up,10,68,68.0,1
+341,2018-04-25,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+341,2018-04-25,,Chest,Flat Barbell Bench Press,6,31,5435.0,239
+341,2018-04-25,,Chest,Pec Dec,2,16,2240.0,177
+342,2018-05-01,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+342,2018-05-01,,Back,Dumbbell Row,4,26,1820.0,88
+342,2018-05-01,,Back,Pull Up,8,56,56.0,1
+343,2018-05-02,,Chest,Flat Barbell Bench Press,6,26,4475.0,232
+343,2018-05-02,,Chest,Pec Dec,5,30,4350.0,183
+344,2018-05-04,,Cooldown,Cooldown And Stretch,1,1,1.0,1
+344,2018-05-04,,Abs,Undefined Ab Workout,1,1,1.0,1
+345,2018-05-07,,Back,Dumbbell Row,4,25,1750.0,88
+345,2018-05-07,,Back,Pull Up,11,74,74.0,1
+346,2018-05-09,,Abs,Undefined Ab Workout,1,1,1.0,1
+347,2018-05-14,,Back,Lat Pulldown,3,30,4200.0,186
+347,2018-05-14,,Back,Pull Up,11,80,80.0,1
+348,2018-05-18,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,24,640.0,101
+348,2018-05-18,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2050.0,80
+348,2018-05-18,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,675.0,33
+348,2018-05-18,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,24,2280.0,120
+348,2018-05-18,Princess Diana Gains Guide,Chest,Incline Pushup,3,6,6.0,1
+348,2018-05-18,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,35,35.0,1
+348,2018-05-18,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,18,325.0,31
+349,2018-05-21,,Back,Cable Curl,3,24,1440.0,88
+349,2018-05-21,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+349,2018-05-21,,Back,Dumbbell Row,4,23,1380.0,76
+349,2018-05-21,,Back,Lat Pulldown,3,30,3000.0,133
+349,2018-05-21,,Back,Pull Up,12,84,84.0,1
+350,2018-05-23,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,19,1235.0,117
+350,2018-05-23,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+350,2018-05-23,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,700.0,33
+350,2018-05-23,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,25,2375.0,126
+350,2018-05-23,Princess Diana Gains Guide,Chest,Incline Pushup,3,6,6.0,1
+350,2018-05-23,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,38,38.0,1
+350,2018-05-23,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,18,325.0,31
+351,2018-05-29,,Back,Dumbbell Hammer Curl,3,20,560.0,36
+351,2018-05-29,,Back,Dumbbell Row,4,24,1440.0,76
+351,2018-05-29,,Back,Lat Pulldown,4,24,2880.0,152
+351,2018-05-29,,Back,Pull Up,8,28,28.0,1
+352,2018-05-30,,Abs,Undefined Ab Workout,1,1,1.0,1
+353,2018-05-31,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,15,475.0,110
+353,2018-05-31,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+353,2018-05-31,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,900.0,33
+353,2018-05-31,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,30,950.0,126
+353,2018-05-31,Princess Diana Gains Guide,Chest,Incline Pushup,3,7,5.0,1
+353,2018-05-31,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,35,35.0,1
+353,2018-05-31,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,15,125.0,29
+354,2018-06-01,,Legs,Barbell Squat,6,60,9500.0,233
+355,2018-06-04,,Back,Dumbbell Hammer Curl,3,20,600.0,38
+355,2018-06-04,,Back,Lat Pulldown,5,32,4240.0,177
+355,2018-06-04,,Back,Pull Up,8,37,37.0,1
+356,2018-06-08,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,18,1710.0,120
+356,2018-06-08,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+356,2018-06-08,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,900.0,33
+356,2018-06-08,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,37,37.0,1
+357,2018-06-12,,Back,Lat Pulldown,1,8,1200.0,190
+357,2018-06-12,,Back,Pull Up,7,30,30.0,1
+358,2018-06-13,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+358,2018-06-13,,Abs,Undefined Ab Workout,1,1,1.0,1
+359,2018-06-14,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,19,1805.0,117
+359,2018-06-14,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+359,2018-06-14,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,900.0,33
+359,2018-06-14,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,29,2755.0,126
+359,2018-06-14,Princess Diana Gains Guide,Chest,Incline Pushup,3,8,8.0,1
+359,2018-06-14,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,36,36.0,1
+359,2018-06-14,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,19,475.0,30
+360,2018-06-15,,Legs,Barbell Squat,4,36,5700.0,246
+361,2018-06-18,,Back,Cable Curl,3,30,2400.0,120
+361,2018-06-18,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+361,2018-06-18,,Back,Dumbbell Hammer Curl,3,24,720.0,40
+361,2018-06-18,,Back,Lat Pulldown,3,24,3600.0,190
+361,2018-06-18,,Back,Pull Up,7,34,34.0,1
+362,2018-06-20,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,3,30,900.0,66
+362,2018-06-20,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,3,30,150.0,20
+362,2018-06-20,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,3,30,10.0,1
+363,2018-06-22,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+363,2018-06-22,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,900.0,33
+363,2018-06-22,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,30,2850.0,126
+363,2018-06-22,Princess Diana Gains Guide,Chest,Incline Pushup,3,6,6.0,1
+363,2018-06-22,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+363,2018-06-22,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,23,575.0,31
+364,2018-06-26,,Back,Lat Pulldown,3,24,3600.0,190
+364,2018-06-26,,Back,Pull Up,7,36,36.0,1
+365,2018-06-27,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,15,475.0,110
+365,2018-06-27,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2100.0,80
+365,2018-06-27,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1050.0,40
+365,2018-06-27,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,30,1900.0,126
+365,2018-06-27,Princess Diana Gains Guide,Chest,Incline Pushup,3,17,12.0,1
+365,2018-06-27,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+365,2018-06-27,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,9,75.0,27
+366,2018-07-03,,Back,Barbell Row,3,30,1950.0,86
+366,2018-07-03,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+366,2018-07-03,,Back,Dumbbell Row,3,30,1500.0,66
+366,2018-07-03,,Back,Lat Pulldown Pronated,3,26,4220.0,226
+366,2018-07-03,,Back,Pull Up,4,17,17.0,1
+366,2018-07-03,,Back,Single Arm Lat Cable Pulldown,3,30,2850.0,126
+366,2018-07-03,,Back,Single-Arm T-Bar Row,3,30,450.0,20
+367,2018-07-04,Princess Diana Gains Guide,Chest,Close Grip Dip,1,15,15.0,1
+367,2018-07-04,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+367,2018-07-04,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,28,2660.0,126
+367,2018-07-04,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2150.0,86
+367,2018-07-04,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1050.0,40
+367,2018-07-04,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,25,2875.0,153
+367,2018-07-04,Princess Diana Gains Guide,Chest,Incline Pushup,3,12,12.0,1
+367,2018-07-04,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+367,2018-07-04,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,19,570.0,37
+368,2018-07-09,,Back,Dumbbell Hammer Curl,2,16,480.0,38
+368,2018-07-09,,Back,Dumbbell Row,4,31,1820.0,76
+368,2018-07-09,,Back,Lat Pulldown,3,24,3600.0,190
+368,2018-07-09,,Back,Pull Up,7,35,35.0,1
+369,2018-07-12,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2300.0,86
+369,2018-07-12,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1050.0,40
+369,2018-07-12,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,30,1150.0,153
+369,2018-07-12,Princess Diana Gains Guide,Chest,Incline Pushup,3,18,6.0,1
+369,2018-07-12,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+369,2018-07-12,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,15,175.0,40
+370,2018-07-17,,Back,Dumbbell Hammer Curl,3,19,610.0,44
+370,2018-07-17,,Back,Dumbbell Row,4,32,1920.0,76
+370,2018-07-17,,Back,Lat Pulldown,3,24,3600.0,190
+370,2018-07-17,,Back,Pull Up,7,37,37.0,1
+371,2018-07-19,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,23,2380.0,135
+371,2018-07-19,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2400.0,86
+371,2018-07-19,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1050.0,40
+371,2018-07-19,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,21,2835.0,180
+371,2018-07-19,Princess Diana Gains Guide,Chest,Incline Pushup,3,9,9.0,1
+371,2018-07-19,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+371,2018-07-19,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,17,510.0,38
+372,2018-07-25,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,26,2860.0,146
+372,2018-07-25,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2450.0,93
+372,2018-07-25,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1100.0,40
+372,2018-07-25,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,21,2835.0,180
+372,2018-07-25,Princess Diana Gains Guide,Chest,Incline Pushup,3,7,7.0,1
+372,2018-07-25,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+372,2018-07-25,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,14,420.0,35
+373,2018-08-02,,Back,Pull Up,5,31,31.0,1
+374,2018-08-03,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2400.0,86
+374,2018-08-03,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1100.0,40
+374,2018-08-03,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,24,1080.0,171
+374,2018-08-03,Princess Diana Gains Guide,Chest,Incline Pushup,3,3,1.0,1
+374,2018-08-03,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,33,33.0,1
+375,2018-08-04,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,20.0,1
+375,2018-08-04,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,20.0,1
+375,2018-08-04,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,20.0,1
+376,2018-08-07,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,20.0,1
+376,2018-08-07,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,20.0,1
+376,2018-08-07,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,20.0,1
+377,2018-08-08,,Back,Dumbbell Row,4,28,1820.0,82
+377,2018-08-08,,Back,Pull Up,6,33,33.0,1
+378,2018-08-10,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,20,2200.0,146
+378,2018-08-10,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2400.0,86
+378,2018-08-10,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1150.0,46
+378,2018-08-10,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,23,3105.0,175
+378,2018-08-10,Princess Diana Gains Guide,Chest,Incline Pushup,3,15,15.0,1
+378,2018-08-10,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,40,40.0,1
+378,2018-08-10,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,15,450.0,36
+379,2018-08-22,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2400.0,86
+379,2018-08-22,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1100.0,40
+379,2018-08-22,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,21,945.0,166
+379,2018-08-22,Princess Diana Gains Guide,Chest,Incline Pushup,3,9,3.0,1
+379,2018-08-22,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+379,2018-08-22,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,24,240.0,38
+380,2018-08-23,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,30.0,1
+380,2018-08-23,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,30.0,1
+380,2018-08-23,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+381,2018-08-24,,Back,Decline Dumbbell Hammer Curls,2,8,240.0,34
+381,2018-08-24,,Back,Dumbbell Row,4,29,1990.0,88
+381,2018-08-24,,Back,Lat Pulldown,3,19,2850.0,190
+381,2018-08-24,,Back,Pull Up,6,32,32.0,1
+382,2018-08-28,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,30.0,1
+382,2018-08-28,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,30.0,1
+382,2018-08-28,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+383,2018-08-30,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,38,2360.0,93
+383,2018-08-30,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1100.0,40
+383,2018-08-30,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,14,1350.0,162
+383,2018-08-30,Princess Diana Gains Guide,Chest,Incline Pushup,3,9,5.0,1
+383,2018-08-30,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,40,40.0,1
+383,2018-08-30,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,12,270.0,36
+384,2018-09-01,,Back,Decline Dumbbell Hammer Curls,3,13,405.0,38
+384,2018-09-01,,Back,Dumbbell Row,4,28,1920.0,88
+384,2018-09-01,,Back,Lat Pulldown,3,14,2100.0,190
+384,2018-09-01,,Back,Pull Up,6,30,30.0,1
+385,2018-09-04,Princess Diana Gains Guide,Chest,Decline Cable Fly,5,27,3225.0,150
+385,2018-09-04,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2600.0,100
+385,2018-09-04,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1100.0,40
+385,2018-09-04,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,14,1890.0,162
+385,2018-09-04,Princess Diana Gains Guide,Chest,Incline Pushup,3,5,5.0,1
+385,2018-09-04,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,9,40,40.0,1
+385,2018-09-04,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,12,360.0,35
+386,2018-09-05,,Back,Dumbbell Row,2,12,860.0,88
+386,2018-09-05,,Back,Pull Up,6,32,32.0,1
+387,2018-09-06,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,36,36.0,1
+387,2018-09-06,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,36.0,1
+387,2018-09-06,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,36,36.0,1
+387,2018-09-06,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,30,10.0,1
+388,2018-09-12,Princess Diana Gains Guide,Chest,Decline Cable Fly,6,30,3675.0,166
+388,2018-09-12,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2600.0,100
+388,2018-09-12,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1150.0,40
+388,2018-09-12,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,15,2025.0,166
+388,2018-09-12,Princess Diana Gains Guide,Chest,Incline Pushup,3,6,6.0,1
+388,2018-09-12,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+388,2018-09-12,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,15,450.0,35
+389,2018-09-14,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,24.0,1
+390,2018-09-17,,Back,Dumbbell Row,4,24,1710.0,90
+390,2018-09-17,,Back,Pull Up,6,34,34.0,1
+391,2018-09-18,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,36,12.0,1
+391,2018-09-18,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,24.0,1
+391,2018-09-18,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,36,12.0,1
+392,2018-09-19,Princess Diana Gains Guide,Chest,Decline Dumbbell Benchpress,4,40,2700.0,100
+392,2018-09-19,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,3,30,850.0,40
+392,2018-09-19,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,3,30,30.0,1
+393,2018-09-21,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,24.0,1
+394,2018-10-01,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5000.0,180
+394,2018-10-01,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,20,2500.0,166
+394,2018-10-01,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1150.0,40
+394,2018-10-01,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+395,2018-10-03,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,36,24.0,1
+395,2018-10-03,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,24.0,1
+395,2018-10-03,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,36,12.0,1
+396,2018-10-04,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+396,2018-10-04,,Back,Dumbbell Row,4,31,2325.0,95
+396,2018-10-04,,Back,Pull Up,6,31,31.0,1
+397,2018-10-09,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,36,24.0,1
+397,2018-10-09,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,24.0,1
+397,2018-10-09,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,36,12.0,1
+398,2018-10-10,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5000.0,180
+398,2018-10-10,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,38,1090.0,40
+398,2018-10-10,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,26,2470.0,123
+398,2018-10-10,Princess Diana Gains Guide,Chest,Incline Pushup,3,6,6.0,1
+398,2018-10-10,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+398,2018-10-10,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,16,480.0,36
+399,2018-10-12,,Back,Dumbbell Row,3,21,1680.0,101
+399,2018-10-12,,Back,Pull Up,6,28,28.0,1
+400,2018-10-23,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5050.0,186
+400,2018-10-23,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,21,2625.0,166
+400,2018-10-23,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1150.0,40
+400,2018-10-23,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,29,2755.0,126
+400,2018-10-23,Princess Diana Gains Guide,Chest,Incline Pushup,3,10,10.0,1
+400,2018-10-23,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+400,2018-10-23,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,20,390.0,37
+401,2018-10-24,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,36.0,1
+401,2018-10-24,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,36,24.0,1
+402,2018-10-25,,Back,Pull Up,6,32,32.0,1
+403,2018-10-27,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,39,39.0,1
+403,2018-10-27,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,39,39.0,1
+403,2018-10-27,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,39,39.0,1
+403,2018-10-27,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,39,39.0,1
+403,2018-10-27,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,39,39.0,1
+404,2018-11-02,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,2400.0,193
+404,2018-11-02,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,600.0,40
+404,2018-11-02,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,30,3050.0,140
+404,2018-11-02,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,20.0,1
+405,2018-11-05,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,42,14.0,1
+405,2018-11-05,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,42,28.0,1
+405,2018-11-05,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,42,14.0,1
+405,2018-11-05,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,42,14.0,1
+405,2018-11-05,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,42,14.0,1
+406,2018-11-06,,Back,Dumbbell Row,2,12,960.0,98
+406,2018-11-06,,Back,Pull Up,6,32,32.0,1
+407,2018-11-12,Princess Diana Gains Guide,Chest,Close Grip Dip,1,4,4.0,1
+407,2018-11-12,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+407,2018-11-12,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5300.0,193
+407,2018-11-12,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,18,2250.0,158
+407,2018-11-12,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1200.0,40
+407,2018-11-12,Princess Diana Gains Guide,Chest,Flat Barbell Bench Press,3,14,1890.0,162
+407,2018-11-12,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,23,2185.0,126
+407,2018-11-12,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+407,2018-11-12,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,14,420.0,36
+408,2018-11-16,,Back,Dumbbell Hammer Curl,3,10,350.0,39
+408,2018-11-16,,Back,Dumbbell Row,4,20,1600.0,93
+408,2018-11-16,,Back,Pull Up,6,32,32.0,1
+409,2018-11-24,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,45,45.0,1
+409,2018-11-24,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,45,45.0,1
+409,2018-11-24,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,45,45.0,1
+409,2018-11-24,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,45,45.0,1
+409,2018-11-24,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,45,45.0,1
+410,2018-11-26,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5650.0,200
+410,2018-11-26,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,35,1050.0,40
+410,2018-11-26,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,34,34.0,1
+411,2018-11-30,,Back,Dumbbell Row,2,10,800.0,93
+411,2018-11-30,,Back,Pull Up,6,34,34.0,1
+412,2018-12-01,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,48,48.0,1
+412,2018-12-01,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,48,48.0,1
+412,2018-12-01,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,48,48.0,1
+412,2018-12-01,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,48,48.0,1
+412,2018-12-01,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,48,48.0,1
+413,2018-12-03,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,5800.0,206
+413,2018-12-03,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,30,1250.0,166
+413,2018-12-03,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1200.0,40
+413,2018-12-03,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,24,2400.0,133
+413,2018-12-03,Princess Diana Gains Guide,Chest,Incline Pushup,3,7,7.0,1
+413,2018-12-03,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,36,36.0,1
+413,2018-12-03,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,9,310.0,40
+414,2018-12-05,,Back,Dumbbell Hammer Curl,2,8,280.0,40
+414,2018-12-05,,Back,Dumbbell Row,4,24,1920.0,96
+414,2018-12-05,,Back,Pull Up,6,30,30.0,1
+415,2018-12-08,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,51,51.0,1
+415,2018-12-08,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,51,51.0,1
+415,2018-12-08,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,51,51.0,1
+415,2018-12-08,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,51,51.0,1
+415,2018-12-08,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,51,51.0,1
+416,2018-12-10,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,3,30,1600.0,213
+416,2018-12-10,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,22,2750.0,166
+416,2018-12-10,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,3,30,300.0,40
+416,2018-12-10,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,4,40,4100.0,140
+416,2018-12-10,Princess Diana Gains Guide,Chest,Incline Pushup,3,30,30.0,1
+416,2018-12-10,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,3,15,5.0,1
+416,2018-12-10,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,30,1050.0,46
+417,2018-12-14,,Back,Dumbbell Hammer Curl,3,12,420.0,40
+417,2018-12-14,,Back,Dumbbell Row,4,22,1760.0,96
+417,2018-12-14,,Back,Pull Up,6,31,31.0,1
+418,2018-12-15,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,54,18.0,1
+418,2018-12-15,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,54,18.0,1
+418,2018-12-15,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,54,18.0,1
+419,2018-12-26,Princess Diana Gains Guide,Chest,Close Grip Dip,1,8,8.0,1
+419,2018-12-26,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+419,2018-12-26,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,5,40,6100.0,220
+419,2018-12-26,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,12,600.0,58
+419,2018-12-26,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,5,40,1200.0,40
+419,2018-12-26,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,12,1380.0,138
+419,2018-12-26,Princess Diana Gains Guide,Chest,Incline Pushup,3,11,11.0,1
+419,2018-12-26,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,36,36.0,1
+419,2018-12-26,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,10,265.0,33
+420,2018-12-29,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,56,56.0,1
+420,2018-12-29,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,36,36.0,1
+420,2018-12-29,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,56,36.0,1
+421,2019-01-02,Princess Diana Gains Guide,Chest,Close Grip Dip,1,10,10.0,1
+421,2019-01-02,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+421,2019-01-02,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6250.0,226
+421,2019-01-02,Princess Diana Gains Guide,Chest,Decline Cable Fly,8,31,1630.0,66
+421,2019-01-02,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,5,40,1300.0,46
+421,2019-01-02,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,4,30,3450.0,153
+421,2019-01-02,Princess Diana Gains Guide,Chest,Incline Pushup,3,19,19.0,1
+421,2019-01-02,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+421,2019-01-02,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,13,390.0,35
+422,2019-01-04,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,54,54.0,1
+422,2019-01-04,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+422,2019-01-04,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,54,54.0,1
+422,2019-01-04,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,54,54.0,1
+422,2019-01-04,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,54,54.0,1
+422,2019-01-04,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,54,54.0,1
+423,2019-01-08,Princess Diana Gains Guide,Chest,Close Grip Dip,1,10,10.0,1
+423,2019-01-08,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,6,40,6300.0,226
+423,2019-01-08,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,19,2375.0,166
+423,2019-01-08,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1400.0,46
+423,2019-01-08,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,15,2025.0,162
+423,2019-01-08,Princess Diana Gains Guide,Chest,Incline Pushup,3,12,12.0,1
+423,2019-01-08,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,40,40.0,1
+423,2019-01-08,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,14,490.0,43
+424,2019-01-15,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,59,19.0,1
+424,2019-01-15,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,57,57.0,1
+424,2019-01-15,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,57,57.0,1
+425,2019-01-19,Princess Diana Gains Guide,Chest,Close Grip Dip,1,5,5.0,1
+425,2019-01-19,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+425,2019-01-19,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6400.0,233
+425,2019-01-19,Princess Diana Gains Guide,Chest,Decline Cable Fly,5,31,2680.0,132
+425,2019-01-19,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1400.0,46
+425,2019-01-19,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,14,1890.0,162
+425,2019-01-19,Princess Diana Gains Guide,Chest,Incline Pushup,3,15,15.0,1
+425,2019-01-19,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,6,40,40.0,1
+425,2019-01-19,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,14,490.0,42
+426,2019-01-21,Princess Diana Gains Guide,Back,Barbell Row,4,40,2600.0,93
+426,2019-01-21,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,2775.0,75
+426,2019-01-21,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,2880.0,84
+426,2019-01-21,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1320.0,42
+426,2019-01-21,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+426,2019-01-21,Princess Diana Gains Guide,Back,Decline Pullups,4,40,40.0,1
+426,2019-01-21,Princess Diana Gains Guide,Back,Pull Up,4,27,27.0,1
+426,2019-01-21,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,600.0,15
+426,2019-01-21,Princess Diana Gains Guide,Back,Seated Back Extension,4,60,60.0,1
+426,2019-01-21,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,1920.0,56
+426,2019-01-21,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,4950.0,135
+427,2019-01-28,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,57,57.0,1
+427,2019-01-28,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+427,2019-01-28,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,57,57.0,1
+427,2019-01-28,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,57,57.0,1
+427,2019-01-28,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,57,57.0,1
+427,2019-01-28,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,57,57.0,1
+428,2019-02-01,Princess Diana Gains Guide,Chest,Close Grip Dip,1,6,6.0,1
+428,2019-02-01,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+428,2019-02-01,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6400.0,233
+428,2019-02-01,Princess Diana Gains Guide,Chest,Decline Cable Fly,5,30,2660.0,140
+428,2019-02-01,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1400.0,46
+428,2019-02-01,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,19,2305.0,162
+428,2019-02-01,Princess Diana Gains Guide,Chest,Incline Pushup,3,14,14.0,1
+428,2019-02-01,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,40,40.0,1
+428,2019-02-01,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,19,665.0,46
+429,2019-02-02,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,30.0,1
+429,2019-02-02,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+429,2019-02-02,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,30.0,1
+429,2019-02-02,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,30,30.0,1
+429,2019-02-02,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+429,2019-02-02,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,30,30.0,1
+430,2019-02-04,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+430,2019-02-04,Princess Diana Gains Guide,Back,Pull Up,4,29,29.0,1
+430,2019-02-04,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+430,2019-02-04,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+430,2019-02-04,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,4650.0,135
+431,2019-02-08,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,60,20.0,1
+431,2019-02-08,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+431,2019-02-08,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,20.0,1
+431,2019-02-08,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,60.0,1
+432,2019-02-09,Princess Diana Gains Guide,Back,Barbell Row,4,40,2800.0,93
+432,2019-02-09,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,3150.0,90
+432,2019-02-09,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,3240.0,98
+432,2019-02-09,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1920.0,56
+432,2019-02-09,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+432,2019-02-09,Princess Diana Gains Guide,Back,Decline Pullups,4,38,38.0,1
+432,2019-02-09,Princess Diana Gains Guide,Back,Pull Up,4,35,35.0,1
+432,2019-02-09,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+432,2019-02-09,Princess Diana Gains Guide,Back,Seated Back Extension,4,60,60.0,1
+432,2019-02-09,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+432,2019-02-09,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,5250.0,135
+433,2019-02-11,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+433,2019-02-11,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+433,2019-02-11,Princess Diana Gains Guide,Chest,Decline Cable Fly,5,30,2600.0,140
+433,2019-02-11,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1350.0,46
+433,2019-02-11,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+434,2019-02-14,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,50,30.0,1
+434,2019-02-14,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,40.0,1
+434,2019-02-14,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,20.0,1
+435,2019-02-18,,Warmup,Active Stretching,1,1,1.0,1
+435,2019-02-18,Princess Diana Gains Guide,Back,Barbell Row,4,42,3570.0,119
+435,2019-02-18,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,3600.0,90
+435,2019-02-18,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,3840.0,112
+435,2019-02-18,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1920.0,56
+435,2019-02-18,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+435,2019-02-18,Princess Diana Gains Guide,Back,Decline Pullups,4,40,40.0,1
+435,2019-02-18,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+435,2019-02-18,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+435,2019-02-18,Princess Diana Gains Guide,Back,Seated Back Extension,4,60,300.0,7
+435,2019-02-18,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+435,2019-02-18,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6000.0,150
+436,2019-02-21,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,60,40.0,1
+436,2019-02-21,,Warmup,Active Stretching,1,1,1.0,1
+436,2019-02-21,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+436,2019-02-21,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,40.0,1
+436,2019-02-21,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,20.0,1
+437,2019-02-23,,Warmup,Active Stretching,1,1,1.0,1
+437,2019-02-23,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+437,2019-02-23,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+437,2019-02-23,Princess Diana Gains Guide,Chest,Decline Cable Fly,4,30,2600.0,140
+437,2019-02-23,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1350.0,46
+437,2019-02-23,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+438,2019-03-04,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,60,60.0,1
+438,2019-03-04,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,60,60.0,1
+439,2019-03-06,,Warmup,Active Stretching,1,1,1.0,1
+439,2019-03-06,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6650.0,240
+439,2019-03-06,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1350.0,46
+439,2019-03-06,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,4,40,40.0,1
+440,2019-03-11,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,4200.0,105
+440,2019-03-11,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1920.0,56
+440,2019-03-11,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+440,2019-03-11,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+440,2019-03-11,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+440,2019-03-11,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6450.0,165
+441,2019-03-13,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,60,40.0,1
+441,2019-03-13,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,60.0,1
+441,2019-03-13,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,40.0,1
+442,2019-03-20,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+442,2019-03-20,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6700.0,240
+442,2019-03-20,Princess Diana Gains Guide,Chest,Decline Cable Fly,5,30,2660.0,140
+442,2019-03-20,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1200.0,40
+442,2019-03-20,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,6,40,40.0,1
+443,2019-03-23,Princess Diana Gains Guide,Back,Barbell Row,4,42,3330.0,126
+443,2019-03-23,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,3840.0,112
+443,2019-03-23,Princess Diana Gains Guide,Back,Decline Pullups,4,40,40.0,1
+443,2019-03-23,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+443,2019-03-23,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+443,2019-03-23,Princess Diana Gains Guide,Back,Seated Back Extension,4,60,600.0,15
+443,2019-03-23,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+443,2019-03-23,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,7050.0,180
+444,2019-03-29,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,60,60.0,1
+444,2019-03-29,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,60.0,1
+444,2019-03-29,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,60,20.0,1
+444,2019-03-29,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,60.0,1
+444,2019-03-29,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,60,40.0,1
+445,2019-03-30,Princess Diana Gains Guide,Back,Barbell Row,4,40,3800.0,126
+445,2019-03-30,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,4800.0,120
+445,2019-03-30,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1920.0,56
+445,2019-03-30,Princess Diana Gains Guide,Back,Decline Pullups,4,40,40.0,1
+445,2019-03-30,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+445,2019-03-30,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+445,2019-03-30,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+445,2019-03-30,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6900.0,180
+446,2019-04-01,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+446,2019-04-01,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,5,40,6600.0,233
+446,2019-04-01,Princess Diana Gains Guide,Chest,Decline Cable Fly,6,30,2850.0,144
+446,2019-04-01,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1350.0,46
+446,2019-04-01,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,8,40,40.0,1
+447,2019-04-12,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,60,20.0,1
+447,2019-04-12,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,60,40.0,1
+447,2019-04-12,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,60,20.0,1
+448,2019-04-13,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+448,2019-04-13,Princess Diana Gains Guide,Chest,Decline Cable Fly,3,27,840.0,148
+448,2019-04-13,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,5,40,1250.0,40
+448,2019-04-13,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,8,40,40.0,1
+449,2019-04-15,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,1050.0,105
+449,2019-04-15,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,3000.0,98
+449,2019-04-15,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+449,2019-04-15,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+449,2019-04-15,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,900.0,22
+449,2019-04-15,Princess Diana Gains Guide,Back,Seated Back Extension,4,53,120.0,19
+449,2019-04-15,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+449,2019-04-15,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6150.0,180
+450,2019-04-19,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,60,40.0,1
+450,2019-04-19,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,60,40.0,1
+451,2019-04-22,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+451,2019-04-22,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,4,40,1500.0,53
+451,2019-04-22,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,27,1615.0,126
+451,2019-04-22,Princess Diana Gains Guide,Chest,Incline Pushup,3,15,5.0,1
+451,2019-04-22,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,40,40.0,1
+451,2019-04-22,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,18,280.0,40
+452,2019-04-27,Princess Diana Gains Guide,Back,Barbell Row,4,40,3800.0,126
+452,2019-04-27,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,4800.0,120
+452,2019-04-27,Princess Diana Gains Guide,Back,Bent Over Rope Pulldowns,4,48,2880.0,84
+452,2019-04-27,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,1440.0,42
+452,2019-04-27,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+452,2019-04-27,Princess Diana Gains Guide,Back,Decline Pullups,4,40,40.0,1
+452,2019-04-27,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+452,2019-04-27,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,600.0,15
+452,2019-04-27,Princess Diana Gains Guide,Back,Seated Back Extension,4,60,600.0,15
+452,2019-04-27,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2400.0,70
+452,2019-04-27,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6000.0,150
+453,2019-05-02,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+453,2019-05-02,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,240.0,10
+453,2019-05-02,Princess Diana Gains Guide,Abs,Hanging Front Snap Kick Raise,3,30,30.0,1
+453,2019-05-02,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+453,2019-05-02,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,30,240.0,10
+454,2019-05-04,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+454,2019-05-04,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,5,45,1550.0,46
+454,2019-05-04,Princess Diana Gains Guide,Chest,Incline Barbell Bench Press,3,28,1710.0,126
+454,2019-05-04,Princess Diana Gains Guide,Chest,Incline Pushup,3,16,6.0,1
+454,2019-05-04,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,50,50.0,1
+454,2019-05-04,Princess Diana Gains Guide,Chest,Single Arm Hammer Strength Press,3,30,500.0,33
+455,2019-05-06,Princess Diana Gains Guide,Back,Bent Over EZ Bar Cable Rows,4,60,2550.0,135
+455,2019-05-06,Princess Diana Gains Guide,Back,Bent Over Single Arm Cable Rows with Twist,4,48,960.0,56
+455,2019-05-06,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+455,2019-05-06,Princess Diana Gains Guide,Back,Pull Up,4,40,40.0,1
+455,2019-05-06,Princess Diana Gains Guide,Back,Reverse Cable Fly,4,60,600.0,15
+455,2019-05-06,Princess Diana Gains Guide,Back,Single Arm Lat Cable Pulldown,4,48,2520.0,84
+455,2019-05-06,Princess Diana Gains Guide,Back,Wide Lat Pulldown Supinated,4,60,6600.0,165
+456,2019-05-08,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,30.0,1
+456,2019-05-08,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,360.0,16
+456,2019-05-08,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+457,2019-05-11,Princess Diana Gains Guide,Chest,Close Grip Dip,3,16,16.0,1
+457,2019-05-11,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+457,2019-05-11,Princess Diana Gains Guide,Chest,Decline Barbell Bench Press,4,40,6600.0,233
+457,2019-05-11,Princess Diana Gains Guide,Chest,Decline Dumbbell Fly,5,50,1700.0,46
+457,2019-05-11,Princess Diana Gains Guide,Chest,Lower Chest Bracket Pushups,5,50,50.0,1
+458,2019-05-14,Princess Diana Gains Guide,Abs,Ab-Wheel Rollout Side-Side-Front,3,30,30.0,1
+458,2019-05-14,Princess Diana Gains Guide,Cooldown,Cooldown And Stretch,1,1,1.0,1
+458,2019-05-14,Princess Diana Gains Guide,Abs,Decline Oblique Chops,3,30,450.0,20
+458,2019-05-14,Princess Diana Gains Guide,Abs,Hanging Knee Raise,3,30,100.0,13
+458,2019-05-14,Princess Diana Gains Guide,Abs,Med Ball Straight Leg Spread Eagles,3,30,30.0,1
+458,2019-05-14,Princess Diana Gains Guide,Abs,Mounted Oblique Leans,3,50,120.0,16
