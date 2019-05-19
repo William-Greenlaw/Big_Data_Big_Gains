@@ -3,3 +3,5 @@ fitbit/*.csv
 fitbit/exports/*.json
 # ignore all workout literature
 literature/
+# ignore google sheets of any kind
+*.gsheet
