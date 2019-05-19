@@ -1,3 +1,5 @@
 # ignore all fitbit biometric data
 fitbit/*.csv
 fitbit/exports/*.json
+# ignore all workout literature
+literature/
