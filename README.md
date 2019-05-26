@@ -52,5 +52,7 @@
 
 ## Limits
 - Muscle group labels are only an appromixation of which muscle does most of the work on a particular kind of exercise. Really, multiple muscle groups across the body work together during a workout, so saying an exercise is a "chest" exercise somewhat overshadows the role that the shoulders and triceps play during a benchpress. In the future, it could be wise to have an exercise database that ranks what proportion of the exercise a muscle group contributes to.
+- Ab workouts difficult to record
+    - I used to use an Android app to guide ab workouts but failed to record the sessions in Fitnotes properly. Instead, on days with ab work, Fitnotes comments read "Abs" but nothing further. Upon revisiting the app to try to recover the data, I discovered my progress seems to have been erased. As a result, I label inside the Fitnotes app any ab day without specifications as "Unspecified Ab Workout"
 
 
