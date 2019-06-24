@@ -1,16 +1,19 @@
 # Todo
 ## Database Work
 [] Flatten Fitbit intraday data into separate tables
-[] Create a separate table with a list of exercises
+[] Get list of exercises from fitnotes developer
+[] Create a separate table with a list of exercise features like equipment, push/pull, etc.
 [] Merge duration, start, and end time of workout into workout meta-data
-[] Record how many light, moderate, and heavy repetitions based on relative intensity; "relative volume"
+[x] Record how many light, moderate, and heavy repetitions based on relative intensity; "relative volume"
 [] Resolve the pull-up, chin-up definition problem
 [x] Add my estimated bodyweight to all variations of dips and pull-ups
-[] Integrate estimated bodyweight into one_rep_max table
+[x] Integrate estimated bodyweight into one_rep_max table
 [] Merge together duplicate exercise names
     - I.E. Decline Cable Fly -> Low Cable Cross-Over
     - Decline Pull Up -> Inverted Row
 [] Fix primary lift and category issue that doesn't label when only cardio has been done
+[] Figure out how to model progression techniques in a table.
+[] Address weaknesses of rolling one rep max calculation
 
 ## Analyses
 [] Sleep analysis
@@ -27,7 +30,7 @@
 [] Adjust golden ratio function to account for situations where the y-axis does not start at zero but
 at the very least appears to do so.
 
-Things to learn
+## Research
 [x] Read through one rep max literature
 [] Research difference between primary, assistance, and auxiliary lifts
 - Proper warmup load strategy
