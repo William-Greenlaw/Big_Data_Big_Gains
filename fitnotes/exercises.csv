@@ -1,144 +1,146 @@
-exercise,category
-Lat Pulldown,Back
-Seated Back Extension,Back
-Pull Up,Back
-Flat Dumbbell Bench Press,Chest
-Push Up,Chest
-Seated Leg Curl Machine,Legs
-Leg Press,Legs
-Dumbbell Hammer Curl,Biceps
-Stationary Bike,Cardio
-Rowing Machine,Cardio
-Running (Treadmill),Cardio
-Standing Calf Raise Machine,Legs
-Dumbbell Curl,Biceps
-Undefined Ab Workout,Abs
-Seated Cable Row,Back
-Dumbbell Row,Back
-Dumbbell Tricep Kickbacks,Triceps
-Dumbbell Overhead Triceps Extension,Triceps
-T-Bar Row,Back
-Seated Machine Fly,Chest
-Dumbbell Shoulder Press,Shoulders
-Close Grip Dip,Triceps
-Bent Over Row,Back
-Flat Barbell Bench Press,Chest
-Dumbbell Lunges,Legs
-Dumbbell Calf Raise,Legs
-Seated Calf Raise Machine,Legs
-Incline Barbell Bench Press,Chest
-Hammer Strength Row,Back
-Deadlift,Back
-Running (Outdoor),Cardio
-Rear Delt Machine Fly,Shoulders
-Hip Adduction,Legs
-Hip Abduction,Legs
-Cooldown And Stretch,Cooldown
-Rope Push Down,Triceps
-Incline Dumbbell Bench Press,Chest
-Barbell Squat,Legs
-Lateral Dumbbell Raise,Shoulders
-Flat Dumbbell Fly,Chest
-Barbell Curl,Biceps
-Barbell Row,Back
-Stair Machine,Cardio
-Overhead Press,Shoulders
-Close Grip Barbell Bench Press,Triceps
-Barbell Shrug,Back
-Hammer Strength Shoulder Press,Shoulders
-Cable Overhead Triceps Extension,Triceps
-Cable Curl,Biceps
-Dumbbell Concentration Curl,Biceps
-Decline Dumbbell Bench Press,Chest
-The Choi Ab Routine,Abs
-Paramount Standing Machine Fly,Chest
-Paramount Rope Pushdown,Triceps
-Paramount Cable Overhead Tricep Extension,Triceps
-EZ-Bar Preacher Curl,Biceps
-Jump Rope,Cardio
-Decline Cable Fly,Chest
-Assisted Pull Ups,Back
-Forearm Curls,Forearms
-Reverse Forearm Curls,Forearms
-Forearm Roll-ups,Forearms
-Oblique Curls,Abs
-Hamstring Bend And Curl,Legs
-Barbell Calf Raise,Legs
-Seated Incline Dumbbell Curl,Biceps
-Hanging Leg Raise,Abs
-Standing Rear Delt Dumbbell Raise,Shoulders
-Weighted Sit-ups,Abs
-One-Legged Dumbbell Deadlift,Legs
-Single Arm Cable Pulldown,Back
-Standing Cable Row,Back
-Seated Cable Row Squeezes,Back
-Single Arm Cable Row,Back
-Straight Shoulder Retractiom On Swiss Ball,Back
-T Shoulder Retraction On Swiss Ball,Back
-Touch Downs With Resistance Band,Back
-Shoulder Flaps With Resistance Band,Back
-Bent-over Two-Dumbbell Row with Palms in,Back
-TRX Suspended Push-ups,Chest
-Bodyweight Mid Row,Back
-Lateral to Front Dumbbell Raise,Shoulders
-Bent over Standing Dumbbell Flyes,Shoulders
-Reverse Cable Curl,Forearms
-Pallof Press with Rotation,Abs
-Standing Cable Wood Chop,Abs
-Barbell Press Sit-up,Abs
-Low Cable Cross-over,Chest
-Dumbbell Incline Row,Back
-Chin Up,Back
-Lateral Cable Raise,Shoulders
-Decline Dumbbell Curls,Biceps
-Incline Reverse Dumbbell Flyes,Shoulders
-Lat Pulldown Pronated,Back
-Bosu Ball Squats,Legs
-Incline Dumbbell Press Yoga Ball,Shoulders
-Decline Dumbbell Press Yoga Ball,Chest
-Pec Dec,Chest
-Incline Hammer Strength Chest Press,Chest
-Front Dumbbell Raise,Shoulders
-Stiff-Legged Dumbbell Deadlift,Legs
-Barbell Plie Squat,Legs
-Goblet Squat,Legs
-Leg Extension Machine,Legs
-Lying Leg Curl Machine,Legs
-Decline Dumbbell Fly,Chest
-Lower Chest Bracket Pushups,Chest
-Incline Pushup,Chest
-Single Arm Hammer Strength Press,Chest
-Single-Arm T-Bar Row,Back
-Decline Oblique Chops,Abs
-Ab-Wheel Rollout Side-Side-Front,Abs
-Med Ball Spread Eagles,Abs
-Decline Dumbbell Hammer Curls,Biceps
-Mounted Oblique Leans,Abs
-Decline Barbell Bench Press,Chest
-Hanging Front Snap Kick Raise,Abs
-Martial Arts Tabata,Cardio
-Reverse Cable Fly,Back
-Wide Lat Pulldown Supinated,Back
-Bent Over EZ Bar Cable Rows,Back
-Bent Over Single Arm Cable Rows with Twist,Back
-Inverted Rows,Back
-Bent Over Rope Pulldowns,Back
-Active Stretching,Warmup
-Hanging Knee Raise,Abs
-Supine Hamstring Stretch with Strap,Legs
-Gastroc Stretch with Foot at Wall,Legs
-Eccentric Heel Lowering on Step,Legs
-Bent Knee Eccentric Heel Lowering on Step,Legs
-Side Stepping with Resistance at Ankles,Legs
-Dead Bugs,Legs
-Ankle Dorsiflexion with Resistance,Legs
-Ankle Inversion with Resistance,Legs
-Long Sitting Ankle Eversion with Resistance,Legs
-Prone Chest Stretch on Chair,Back
-Doorway Pec Stretch at 90 Degrees Abduction,Chest
-Seated Dumbbell Overhead Press,Shoulders
-Supine Quadriceps Stretch with Strap,Legs
-Arm Bike,Cardio
-Standing High Shoulder Row with Anchored Resistance,Shoulders
-Cable Face Pull,Shoulders
-Standing Incline Cable Fly,Chest
+exercise,category,variant,label
+Lat Pulldown,Back,pull,accessory
+Seated Back Extension,Back,,accessory
+Pull Up,Back,pull,accessory
+Flat Dumbbell Bench Press,Chest,push,accessory
+Push Up,Chest,push,accessory
+Seated Leg Curl Machine,Legs,,accessory
+Leg Press,Legs,squat,accessory
+Dumbbell Hammer Curl,Biceps,,accessory
+Stationary Bike,Cardio,,accessory
+Rowing Machine,Cardio,pull,accessory
+Running (Treadmill),Cardio,,accessory
+Standing Calf Raise Machine,Legs,,accessory
+Dumbbell Curl,Biceps,,accessory
+Undefined Ab Workout,Abs,,accessory
+Seated Cable Row,Back,pull,accessory
+Dumbbell Row,Back,pull,accessory
+Dumbbell Tricep Kickback,Triceps,,accessory
+Dumbbell Overhead Triceps Extension,Triceps,,accessory
+T-Bar Row,Back,pull,accessory
+Seated Machine Fly,Chest,,accessory
+Dumbbell Shoulder Press,Shoulders,push,accessory
+Close Grip Dip,Triceps,,accessory
+Bent Over Row,Back,pull,accessory
+Flat Barbell Bench Press,Chest,push,primary
+Dumbbell Lunge,Legs,,accessory
+Dumbbell Calf Raise,Legs,,accessory
+Seated Calf Raise Machine,Legs,,accessory
+Incline Barbell Bench Press,Chest,push,accessory
+Hammer Strength Row,Back,pull,accessory
+Deadlift,Back,hip hinge,primary
+Running (Outdoor),Cardio,,accessory
+Rear Delt Machine Fly,Shoulders,,accessory
+Hip Adduction,Legs,,accessory
+Hip Abduction,Legs,,accessory
+Cooldown And Stretch,Cooldown,,accessory
+Rope Push Down,Triceps,,accessory
+Incline Dumbbell Bench Press,Chest,push,accessory
+Barbell Squat,Legs,squat,primary
+Lateral Dumbbell Raise,Shoulders,,accessory
+Flat Dumbbell Fly,Chest,,accessory
+Barbell Curl,Biceps,,accessory
+Barbell Row,Back,pull,accessory
+Stair Machine,Cardio,,accessory
+Overhead Press,Shoulders,push,accessory
+Close Grip Barbell Bench Press,Triceps,push,accessory
+Barbell Shrug,Back,,accessory
+Hammer Strength Shoulder Press,Shoulders,push,accessory
+Cable Overhead Triceps Extension,Triceps,,accessory
+Cable Curl,Biceps,,accessory
+Dumbbell Concentration Curl,Biceps,,accessory
+Decline Dumbbell Bench Press,Chest,push,accessory
+The Choi Ab Routine,Abs,,accessory
+Paramount Standing Machine Fly,Chest,,accessory
+Paramount Rope Pushdown,Triceps,,accessory
+Paramount Cable Overhead Tricep Extension,Triceps,,accessory
+EZ-Bar Preacher Curl,Biceps,,accessory
+Jump Rope,Cardio,,accessory
+Decline Cable Fly,Chest,,accessory
+Assisted Pull Up,Back,pull,accessory
+Forearm Curl,Forearms,,accessory
+Reverse Forearm Curl,Forearms,,accessory
+Forearm Roll Up,Forearms,,accessory
+Oblique Curl,Abs,,accessory
+Hamstring Bend And Curl,Legs,,accessory
+Barbell Calf Raise,Legs,,accessory
+Seated Incline Dumbbell Curl,Biceps,,accessory
+Hanging Leg Raise,Abs,,accessory
+Standing Rear Delt Dumbbell Raise,Shoulders,,accessory
+Weighted Sit Up,Abs,,accessory
+One-Legged Dumbbell Deadlift,Legs,hip hinge,accessory
+Single Arm Cable Pulldown,Back,pull,accessory
+Standing Cable Row,Back,pull,accessory
+Seated Cable Row Squeeze,Back,pull,accessory
+Single Arm Cable Row,Back,pull,accessory
+Straight Shoulder Retractiom On Swiss Ball,Back,,accessory
+T Shoulder Retraction On Swiss Ball,Back,,accessory
+Touch Downs With Resistance Band,Back,,accessory
+Shoulder Flaps With Resistance Band,Back,,accessory
+Bent-over Two-Dumbbell Row with Palms in,Back,pull,accessory
+TRX Suspended Push Up,Chest,push,accessory
+Bodyweight Mid Row,Back,pull,accessory
+Lateral to Front Dumbbell Raise,Shoulders,,accessory
+Bent over Standing Dumbbell Fly,Shoulders,,accessory
+Reverse Cable Curl,Forearms,,accessory
+Pallof Press with Rotation,Abs,push,accessory
+Standing Cable Wood Chop,Abs,,accessory
+Barbell Press Sit-up,Abs,push,accessory
+Low Cable Cross-over,Chest,,accessory
+Dumbbell Incline Row,Back,pull,accessory
+Chin Up,Back,pull,accessory
+Lateral Cable Raise,Shoulders,,accessory
+Incline Dumbbell Curl,Biceps,,accessory
+Incline Reverse Dumbbell Fly,Shoulders,,accessory
+Lat Pulldown Pronated,Back,pull,accessory
+Bosu Ball Squat,Legs,squat,accessory
+Incline Dumbbell Press Yoga Ball,Shoulders,push,accessory
+Decline Dumbbell Press Yoga Ball,Chest,push,accessory
+Pec Dec,Chest,,accessory
+Incline Hammer Strength Chest Press,Chest,push,accessory
+Front Dumbbell Raise,Shoulders,,accessory
+Stiff-Legged Dumbbell Deadlift,Legs,hip hinge,accessory
+Barbell Plie Squat,Legs,squat,accessory
+Goblet Squat,Legs,squat,accessory
+Leg Extension Machine,Legs,,accessory
+Lying Leg Curl Machine,Legs,,accessory
+Decline Dumbbell Fly,Chest,,accessory
+Lower Chest Bracket Pushup,Chest,push,accessory
+Incline Pushup,Chest,push,accessory
+Single Arm Hammer Strength Press,Chest,push,accessory
+Single-Arm T-Bar Row,Back,pull,accessory
+Decline Oblique Chop,Abs,,accessory
+Ab-Wheel Rollout Side-Side-Front,Abs,,accessory
+Med Ball Spread Eagle,Abs,,accessory
+Incline Dumbbell Hammer Curl,Biceps,,accessory
+Mounted Oblique Lean,Abs,,accessory
+Decline Barbell Bench Press,Chest,push,accessory
+Hanging Front Snap Kick Raise,Abs,,accessory
+Martial Arts Tabata,Cardio,,accessory
+Reverse Cable Fly,Back,,accessory
+Wide Lat Pulldown Supinated,Back,pull,accessory
+Bent Over EZ Bar Cable Row,Back,pull,accessory
+Bent Over Single Arm Cable Row with Twist,Back,pull,accessory
+Inverted Row,Back,pull,accessory
+Bent Over Rope Pulldown,Back,pull,accessory
+Active Stretching,Warmup,,accessory
+Hanging Knee Raise,Abs,,accessory
+Supine Hamstring Stretch with Strap,Legs,,accessory
+Gastroc Stretch with Foot at Wall,Legs,,accessory
+Eccentric Heel Lowering on Step,Legs,,accessory
+Bent Knee Eccentric Heel Lowering on Step,Legs,,accessory
+Side Stepping with Resistance at Ankle,Legs,,accessory
+Dead Bug,Abs,,accessory
+Ankle Dorsiflexion with Resistance,Legs,,accessory
+Ankle Inversion with Resistance,Legs,,accessory
+Long Sitting Ankle Eversion with Resistance,Legs,,accessory
+Prone Chest Stretch on Chair,Back,,accessory
+Doorway Pec Stretch at 90 Degrees Abduction,Chest,,accessory
+Seated Dumbbell Overhead Press,Shoulders,push,accessory
+Supine Quadriceps Stretch with Strap,Legs,,accessory
+Arm Bike,Cardio,,accessory
+Standing High Shoulder Row with Anchored Resistance,Shoulders,pull,accessory
+Cable Face Pull,Shoulders,pull,accessory
+Standing Incline Cable Fly,Chest,,accessory
+Barbell Front Squat,Legs,squat,accessory
+Smith Machine Reverse Lunge,Legs,,accessory
