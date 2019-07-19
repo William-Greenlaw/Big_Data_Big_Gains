@@ -1,7 +1,9 @@
 # Todo
 ## Database Work
-[] Get list of exercises from fitnotes developer.
-[] Create a separate table with a list of exercise features like equipment, push/pull, etc.
+[x] Create a separate table with a list of exercise features like equipment, push/pull, etc.
+[] Categorize volume by rep ranges and intensities for strength and hypertrophy.
+[] Finish classifying variants in exercise table.
+[] Add sub-variants to exercise table, like horizontal push, horizontal pull
 [] Revisit how to do body measurements to track progress
 [] Revisit how to quantify ab work when comparing bodyweight to weighted exercises
 [] Flatten Fitbit intraday data into separate tables.
